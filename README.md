@@ -1,4 +1,4 @@
-# hello-world
-just another repository
+# projects
+This repository consist of various kinds of projects
 
 
