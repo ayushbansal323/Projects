@@ -9,6 +9,6 @@ for running th program enter the following command
 for help :
 =>python3 run.py --help
   
-install this libraries 
+install this libraries =>
 pip/pip3 install PyPDF2
 pip/pip3 install xlwt
