@@ -6,5 +6,7 @@ for running th program enter the following command
 =>pyton3 run.py <name of input pdf>  <name of output excel file> <Year(FE,SE,TE,BE)>
 for help :
 =>python3 run.py --help
+  
+install this libraries \n 
 pip/pip3 install PyPDF2
 pip/pip3 install xlwt
