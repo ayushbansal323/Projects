@@ -1,0 +1,29 @@
+{% extends "ProjectCentricMail/base.html" %}
+
+{% block body %}
+
+  <div class="card text-center">
+  <div class="card-body">
+<h1>Spam mails are shown in <span class="badge badge-primary">highlights</span></h1>
+  </div>
+</div>
+<div class="container">
+<div class="list-group">
+	{% for m_id,Sender,Subject,Date,Snippet,Message_body,is_spam in reader %}
+		{% if m_id != "m_id" %}
+		{% if is_spam == "True" %}
+  <a href="https://mail.google.com/mail?authuser={{ email }}#all/{{ m_id }}" target="_blank" class="list-group-item list-group-item-action flex-column align-items-start active mt-1">
+  		{% else %}
+    <a href="https://mail.google.com/mail?authuser={{ email }}#all/{{ m_id }}" target="_blank" class="list-group-item list-group-item-action flex-column align-items-start mt-1">
+    	{% endif %}
+    <div class="d-flex w-100 justify-content-between">
+      <h5 class="mb-1">{{ Sender }}</h5>
+      <small class="text-active" >{{ Date }}</small>
+    </div>
+    <small class="mb-1">{{ Subject }}</small>
+  </a>
+  {% endif %}
+   {% endfor %}
+</div>
+</div>
+{% endblock %}

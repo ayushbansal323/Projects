@@ -1,0 +1,2231 @@
+m_id,Sender,Subject,Date,Snippet,Message_body,formalinformal
+m_id,Sender,Subject,Date,Snippet,Message_body,formal
+1665f338e3087a33,Aaditya Deshpande <aadityadeshpandeasmi@gmail.com>,test run,2018-10-10,hello sunny how are you?,"[<p>hello sunny how are you?
+</p>]",informal
+1665d428cfb76755,"""Change.org"" <change@mail.change.org>",#MeToo In Journalism,2018-10-10,"Dear Sunny, “Allegations of sexual harassment against senior journalists in the Times of India, Hindustan Times, DNA and Business Standard have showcased that big media houses have not done enough to",,formal
+1665d3153b355c16,Tennis TV <info@email.tennistv.com>,"LIVE 🎾: Watch Federer, Nishikori & more in Shanghai today",2018-10-10,Watch all matches from the Rolex Shanghai Masters LIVE and on-demand. View in browser. Tennis TV Roger Federer Roger returns to Shanghai! The defending champion is back at the Rolex Shanghai Masters!,"[<p>Watch all matches from the Rolex Shanghai Masters LIVE and on-demand.
+
+View in browser. https://email.tennistv.com/2YY2-RZVH-296DTAB9BD/cr.aspx
+
+
+ROGER RETURNS TO SHANGHAI!
+
+The defending champion is back at the Rolex Shanghai Masters!
+
+Watch Roger Federer live today as he faces Tokyo champion Daniil Medvedev, while Kei Nishikori, Kevin Anderson and many more are also in action.
+
+Enjoy the matches LIVE or catch up on the ones you've missed from the tournament so far in our REPLAYS channel.
+
+Join us this week on Tennis TV as the Race to London hots up and the players battle for the final spots at the Nitto ATP Finals!
+
+SUBSCRIBE ( https://email.tennistv.com/2YY2-RZVH-6DTAB9-FYLAJ-0/c.aspx )
+
+
+Tournament Schedule
+
+( https://email.tennistv.com/2YY2-RZVH-6DTAB9-FYLAK-0/c.aspx )
+
+
+Watch anytime, on any device.
+
+
+( https://email.tennistv.com/2YY2-RZVH-6DTAB9-FYB35-0/c.aspx )
+
+( https://email.tennistv.com/2YY2-RZVH-6DTAB9-FYB36-0/c.aspx )
+
+( https://email.tennistv.com/2YY2-RZVH-6DTAB9-FYB37-0/c.aspx )
+
+( https://email.tennistv.com/2YY2-RZVH-6DTAB9-FYB38-0/c.aspx )
+
+Email Preferences ( https://email.tennistv.com/2YY2-RZVH-6DTAB9-FYB39-0/c.aspx )
+Help ( https://email.tennistv.com/2YY2-RZVH-6DTAB9-FYB3A-0/c.aspx )
+T&amp;Cs ( https://email.tennistv.com/2YY2-RZVH-6DTAB9-FYB3B-0/c.aspx )
+Terms of Use ( https://email.tennistv.com/2YY2-RZVH-6DTAB9-FYB3C-0/c.aspx )
+Privacy Policy ( https://email.tennistv.com/2YY2-RZVH-6DTAB9-FYB3D-0/c.aspx )
+
+To ensure delivery, add info@tennistv.com to your contacts.
+Don't want to receive emails from us? Unsubscribe here https://email.tennistv.com/2YY2-RZVH-296DTAB9BD/uns.aspx.
+
+© ATP Media 2018
+Thames House, Portsmouth Road, Esher, KT10 9AD, UK.</p>]",informal
+1665990919b699e2,Sam Gavis-Hughson <sam+qotd@byte-by-byte.com>,Don’t do another interview until you master these 10 techniques!,2018-10-09,"Hi Sunny Khandare - Yesterday I told you about the #1 thing that people screw up in their interviews: They don&#39;t know what to do if they get stuck. In fact, I&#39;ve found through working with","[<p>Hi Sunny Khandare -
+
+Yesterday I told you about the #1 thing that people screw up in
+their interviews: They don’t know what to do if they get stuck.
+
+In fact, I’ve found through working with dozens of students that
+many people don’t even know how to approach a new problem.
+Rather, they simply go into the interview and hope that a
+solution magically appears to them.
+
+This is NOT a good strategy.
+
+If your interviewer knows what they’re doing, they will
+specifically ask you a question where the solution is nonobvious.
+That doesn’t mean you have to be a genius to be able to solve it,
+but you do have to have a structured approach.
+
+When you see a problem that you don’t recognize, what is your
+plan? Here are 10 strategies to keep in your back pocket in case
+you get stuck during your interview.
+
+------------------------------
+1. Find a brute force solution
+------------------------------
+
+There’s probably one reason above all others that causes
+candidates to get stuck finding a solution: They try to
+immediately find an optimal solution.
+
+I’ve discussed starting with brute force solutions (
+https://el2.convertkit-mail2.com/c/92ugdqwgkdbnhllm32/reh8hoh5qdn7x/aHR0cHM6Ly93d3cuYnl0ZS1ieS1ieXRlLmNvbS9icnV0ZS1mb3JjZQ== ) in the past, but it bears
+repeating. It is very easy to go down different rabbit holes when
+trying to find an optimal solution and finding a brute force
+solution always gives you a grounded place to come back to. Even
+though it may not be a great solution, if you can’t find a better
+solution, it gives you something to fall back on.
+
+The brute force solution also gives you a jumping-off point to
+optimize your code. With a brute force solution, it is often easy
+to see places in which you are doing repeated work or otherwise
+slowing down the execution.
+
+After finding the brute force solution, you can use Gayle
+Laackmann McDowell’s BUD optimization (
+https://el2.convertkit-mail2.com/c/92ugdqwgkdbnhllm32/8kuqhoh5gdk3k/aHR0cHM6Ly93d3cuc2xpZGVzaGFyZS5uZXQvZ2F5bGUyL2NyYWNraW5nLXRoZS1pbnRlcnZpZXctc2tpbGxzLWNvZGluZy1zb2Z0LXNraWxscy1wcm9kdWN0LW1hbmFnZW1lbnQtaGFuZG91dHM= ), which stands for bottlenecks,
+unnecessary work, and duplicated work. By identifying places in
+your code that are slowing everything else down, you can find
+ways in which to optimize the code.
+
+For example, if you’re looping through an array and for each
+element, you need to look up that element in another array, you
+have an O(N * M) time complexity, if N and M are the lengths of
+the two arrays. However, if you put the second array into a set,
+you get a lookup time of O(1), so your time complexity improves
+to O(N).
+
+Finding a brute force solution is incredibly valuable, because it
+helps you understand the problem better and ensures that you have
+a solution.
+
+-------------------------------
+2. Fully understand the problem
+-------------------------------
+
+It is shocking to me how many people will start trying to solve
+an interview problem without really understanding what they’re
+supposed to do.
+
+In fact, when evaluating new coaching clients, I always ask them
+to simply print a linked list in reverse order. This should be a
+very simple task, but many people miss the core directive, which
+is to print the list. I often find people trying to return a
+reversed list or other such things. However, that is NOT what I
+am asking and can be significantly more difficult.
+
+When problems are more complicated or confusing, I often find
+that people will spend a few minutes trying to understand the
+problem, but eventually give up and figure they’ll just start
+solving it. That’s a critical mistake, though. How can you solve
+a problem when you don’t know what you’re solving?
+
+There are a couple things that you can do if you’re struggling to
+understand a coding interview question. The first is to simply
+ask more questions of your interviewer. Ask them to show you an
+example or clarify any specific points on which you’re unclear.
+Don’t feel bad about asking a lot of questions. It’s their job to
+make you understand what to do.
+
+You can also work through a few examples. Look at what the inputs
+and outputs are. What is the function signature going to be?
+Explicitly defining these parameters can be very helpful in
+thinking about the problem. For example, if you’re writing a
+recursive function, it’s way easier to figure out the base case
+when you know what the return type should be.
+
+-----------------------------------
+3. Work through the problem by hand
+-----------------------------------
+
+Not sure how to solve the problem in a coding interview? Well can
+you solve the problem yourself without writing any code? If you
+understand the problem thoroughly, you should be able to answer
+it. And if you can solve it by hand, you can solve it with code.
+
+Let’s consider the example of determining whether a string is a
+palindrome. Say I give you the string “acaramanamaraca”. Is it a
+palindrome? Go ahead and decide.
+
+How did you solve it? Did you compare the first and last letters,
+then the second and the second-to-last and so on? Did you reverse
+the string and then compare them? There are several different
+ways that you can determine if a string is a palindrome by hand.
+
+And now that you’ve done it by hand, can you write code to do the
+same thing? In the two example solutions that I described, I
+basically explained an algorithm that you can use to solve this
+problem by hand. And that means it’s easy to write code to solve
+it.
+
+The key with this technique is just to be as detailed and
+specific as possible when solving it by hand. If you say “oh I
+just know it’s a palindrome”, then that’s not very helpful. How
+do you know? If you’re struggling to think about it, pick a
+larger input to solve by hand. Something that you can’t do in
+your head.
+
+For example, if I asked you to multiply two numbers, it would be
+silly to use the example of 3*4, since presumably you have that
+memorized from doing multiplication tables in elementary school.
+A far better example would be 14235 * 2512. With this, it is very
+unlikely that you’ll be able to do it in your head so you have to
+write it out. This will help you identify the “algorithm” that
+you’re using.
+
+------------------------------------------------------
+4. Brainstorm different data structures and algorithms
+------------------------------------------------------
+
+Sometimes the easiest way to approach a coding interview question
+is to take different common solutions and see if any of them
+apply. We can do exactly this in coding interviews by
+brainstorming different data structures and algorithms and seeing
+if any of them are a good fit for our problem.
+
+Let’s say that we have a problem that involves strings. For
+example, maybe we want to all the strings in an array that have a
+certain prefix. Let’s brainstorm:
+
+* Just keep the strings in the array. We iterate through the
+array and just check the prefix of each string.
+* Add all the strings to a hashmap with mappings for each
+possible prefix. That might work but there are a lot of
+possibilities.
+* We could sort the array of strings. That might make things
+easier.
+* Maybe we could do some sort of tree structure?
+* Speaking of trees, what if we used a trie?
+
+From this basic brainstorm, we’ve come up with multiple valid
+possibilities. In this case, the problem that we’re looking at
+does have many possible solutions, so that’s to be expected. Even
+if we only had one way to solve the problem, though, this may
+help elucidate ways in which we can approach it.
+
+The key is that no idea is too dumb when you’re brainstorming.
+You’re doing this in front of your interviewer, so the temptation
+is to try and sound smart, but you can very easily shoot yourself
+in the foot by doing this. If you filter yourself while
+brainstorming, you may miss key insights.
+
+Put everything down on the whiteboard and then see if anything
+jumps out at you. Can you make any clear connections? This
+technique is great for sparking ideas.
+
+--------------------------------------------
+5. Consider all the information you’re given
+--------------------------------------------
+
+Lots of times, our interviewers give us clues as to how we should
+think about a problem. By giving us details about how the input
+is formatted or any restrictions on the input, they are subtly
+hinting at how to view the problem.
+
+For example, let’s say that we wanted to find a value in a sorted
+matrix. If we know that the rows and columns of the matrix are in
+sorted order, that gives us a big clue for how we can solve the
+problem.
+
+Without that information, we’re fairly limited in how we can
+approach this problem. Our best bet would be to just iterate over
+every value in the matrix to see if the value we’re searching for
+exists. However, we have a big clue, which is that our matrix is
+sorted.
+
+Knowing the matrix is sorted, we have algorithms to help us deal
+with that. There’s binary search and we can also consider other
+properties of our matrix. For example, since both rows and
+columns are sorted, if we pick an arbitrary cell [i, j], any cell
+and is going to have a value less than cell [i, j].
+
+From the information given, if you’re stuck, you can simply take
+some time to extrapolate everything you can. If the array is
+sorted, what does that mean? If the input is in tree format, how
+can we use that to our advantage? Look for these clues.
+
+-----------------------
+6. Simplify the problem
+-----------------------
+
+My favorite types of problems to ask as an interviewer are
+problems that have a lot of moving pieces. These force the
+interviewee to consider not only each part of the problem, but
+how all of the different components interact with each other.
+
+As an interviewer, this is great because I get a better idea of
+an interviewee’s mental model. As an interviewee, however, it can
+be difficult. Whenever you see a problem that has a lot of
+different stuff going on, a good starting point is to consider a
+simpler problem.
+
+Let’s say that we want to find the path through a matrix with the
+greatest product. This is a moderately difficult problem, but it
+is complicated even more if you consider that values in your
+matrix can be negative. Since multiplying negatives cancel each
+other out, this problem gets pretty tricky pretty fast.
+
+But here’s the thing. The solution is not fundamentally different
+than solving the problem for only positive numbers. If you get
+the solution for solely positive values, then it is relatively
+easy to extend the solution to include negative numbers as well.
+
+Similar to first working through a brute force solution, solving
+a simpler version of the problem gives you a really good starting
+point from which to build out your solution. It is often simply a
+matter of handling additional input values and adding some
+conditionals. Once you have the framework, this is easy to do.
+
+------------------------------------------
+7. Break down the problem into subproblems
+------------------------------------------
+
+In addition to simplifying problems, you can also just ignore
+parts of the problem when you’re initially coming up with a
+solution. This is my favorite technique when people do it right.
+
+When you are asked a problem and are trying to come up with a
+solution, ask yourself the following question: “Is there any
+function that, if I had access to it, would make it significantly
+easier to solve this problem?”
+
+Oftentimes, you will find that there is an obvious function that
+dramatically simplifies the problem. Consider the example of
+printing a linked list in reverse order. There should be two
+obvious functions that would simplify this problem:
+reverseLinkedList() and printLinkedList(). If we already had
+these functions, our solution becomes trivial.
+
+void printReversedLinkedList(Node linkedList) {
+
+linkedList = reverseLinkedList(linkedList);
+
+printLinkedList(linkedList);
+
+// optionally, we can reverse our linked list again to return
+it to the original state
+
+}
+
+Our code really can’t get much simpler than that. And now that we
+have our top-level function laid out, we can focus on
+implementing each of these functions individually. This won’t
+necessarily be trivial – reversing a linked list is a bit tricky
+– but it will be a hell of a lot easier than what we were doing
+before.
+
+The key with this technique is that by breaking down the problem
+into smaller components, it is much easier to see how to solve
+the problem. You can start by just assuming that you have a
+function that does X. Now you only have to worry about doing all
+of the other things. This abstraction makes it much easier to
+reason about the problem.
+
+And this technique also has an ancillary benefit. If you don’t
+finish writing all of the code, it is still clear that you know
+what you’re doing. If you choose to use a helper function, you
+should implement that last. By implementing the core code first,
+it is clear you know what’s up, and if you run out of time to
+implement the helper function, chances are that was something
+that would be pretty easy to do anyway. This is a great way to
+compensate for lack of time/speed in an interview.
+
+-------------------
+8. Take a step back
+-------------------
+
+Going down a rabbit hole is one of the easiest ways to get stuck
+in a coding interview. However, it’s not always obvious in the
+moment that you’ve even gone down a rabbit hole in the first
+place. That’s why I recommend that whenever you find yourself
+starting to get stuck in a coding interview, you take a moment to
+step back and look at the big picture.
+
+Let’s say that we realize that we need a function that stores
+value mappings. For example we have something like int -&gt; string.
+Our initial solution might be to create a HashMap to store these
+values. That would seem to be the logical thing.
+
+However, we later discover that all of the integer keys are each
+of the values from 0-n and we are going to want to be able to
+iterate over the keys in order. Now our HashMap doesn’t seem so
+great, right?
+
+However, I can’t tell you how many people I see who will just
+take what they already have and try and force it to work. They’re
+trying to put a square peg in a round hole. You can do it, but
+it’s a lot of work.
+
+First they have to get a list of all of the keys in the HashMap,
+then they have to sort it, and then they have to iterate over it.
+And that’s not to mention the extra work of putting everything
+into a HashMap in the first place.
+
+If they just used an array, it would be so much easier.
+
+However, this is not always obvious. We tend to think about
+problems in an iterative way, building up to a solution. That
+means that if we don’t stop to think carefully about what we’re
+doing, we may end up doing a lot of unnecessary work.
+
+Taking a step back is simply taking a moment to think about what
+we’re doing at a high level and confirming that it is, in fact,
+the best way that we could be accomplishing that task. You may be
+surprised how often you don’t realize that there is a vastly more
+efficient approach.
+
+------------------------------------
+9. Collaborate with your interviewer
+------------------------------------
+
+Many people see interviewing as a battle. It’s you versus the
+interviewer. You’re trying to get the job and they’re trying to
+take it away from you. You want to succeed and they want you to
+fail.
+
+This is one of the most destructive things that you can think in
+your interview. This is completely false and it can change the
+tone of the interview to be combative, which isn’t fun for
+anyone.
+
+The truth is that your interviewer wants you to succeed. Their
+goal is simply to make sure that you meet the standards that the
+company has. If they’re being hard on you it’s because they’re
+trying to make absolutely sure.
+
+When you’re stuck on a problem, you can get feedback from your
+interviewer. The more you talk out loud in your interview, the
+more they will already know what’s going on, too, so the more
+they will be able to help you.
+
+One of my favorite phrases to use in an interview is simply,
+“does that sound good to you?” When I come up with a solution and
+I’m not sure if it’s the best, I’ll ask that question, which
+gives my interviewer two options.
+
+* If I’ve found a decent solution, they can say yes and suggest
+that I start coding it up. This way I don’t waste any unnecessary
+time trying to come up with an even better solution.
+* If they’re not happy with my solution, they can say no and
+suggest that I think about it a little more. This is helpful too
+because, without really giving a hint at all, they are saying
+that I’m not quite there yet.
+
+Granted, not all interviewers are going to be quite so helpful,
+but there is no harm in asking and it can make your life a lot
+easier.
+
+----------------
+10. Ask for help
+----------------
+
+I’ve included this last because it’s definitely a last resort.
+Most interviewers will mark you down for needing a hint in your
+interview. However, if you’re stuck and not making progress, this
+is better than just twiddling your thumbs. And it doesn’t
+necessarily disqualify you from getting an offer.
+
+When you’re really stuck and not able to proceed, you can just be
+upfront with your interviewer. Tell them that you’re a little
+stuck and ask if they can give you a hint. Chances are, they’ll
+offer you up something that will help you keep moving in the
+right direction.
+
+The worst thing that you can do in your interview is to give up
+rather than asking for help. In the real world, there are plenty
+of opportunities to get help from others, but no company wants to
+have a quitter on their team. If you just give up when faced with
+a hard problem, that’s definitely not what they want.
+
+You’re not going to use all of these strategies in every
+interview. They’re simply not necessary.
+
+Sometimes you’ll see a really easy problem and you won’t need to
+use any of them. Sometimes you’ll get a really hard problem and
+have to combine several strategies.
+
+Regardless of the specific interview question, though, knowing
+these strategies will make you bulletproof against even the
+toughest questions.
+
+So I want you to do something right now. Pick one of these
+strategies and try it out for yourself right now. We went over a
+ton of stuff today so start with just picking one. I guarantee
+you’ll see a big difference.
+
+Best,
+
+Sam
+
+p.s. Do you get stuck on recursive problems? Coding Interview
+Mastery: Recursion will be reopening next week so be sure to read
+your emails if you don’t want to miss it.
+
+Unsubscribe ( https://el2.convertkit-mail2.com/u/92ugdqwgkdbnhllm32 ) |
+Update your profile ( https://el2.convertkit-mail2.com/preferences/92ugdqwgkdbnhllm32 ) |
+26 Broadway, 8th Floor, New York, NY 10038</p>]",informal
+1665845de4352ed7,Tennis TV <info@email.tennistv.com>,LIVE 🎾: Watch Novak Djokovic in Shanghai today,2018-10-09,Watch matches LIVE and on-demand from the Rolex Shanghai Masters. View in browser. Tennis TV Novak Djokovic Watch Novak Djokovic live today in Shanghai! Join us this week on Tennis TV and watch your,"[<p>Watch matches LIVE and on-demand from the Rolex Shanghai Masters. 
+
+View in browser. https://email.tennistv.com/2YY2-RZMW-296DTAB9BD/cr.aspx
+
+
+
+Watch Novak Djokovic live today in Shanghai!
+
+Join us this week on Tennis TV and watch your favourite ATP stars battle it out in Shanghai at the eighth ATP World Tour Masters 1000 event of the season.
+
+Watch three-time Rolex Shanghai Masters champion Novak Djokovic return to the court today as he faces Jeremy Chardy, then join us on Wednesday for Roger Federer and more.
+
+Enjoy all matches from the tournament LIVE or on-demand in our REPLAYS channel so you never miss a set on Tennis TV!
+
+SUBSCRIBE ( https://email.tennistv.com/2YY2-RZMW-6DTAB9-FY3YZ-0/c.aspx )
+
+
+Tournament Schedule
+
+( https://email.tennistv.com/2YY2-RZMW-6DTAB9-FY3Z0-0/c.aspx )
+
+
+Watch anytime, on any device.
+
+( https://email.tennistv.com/2YY2-RZMW-6DTAB9-FY39O-0/c.aspx )
+
+
+
+( https://email.tennistv.com/2YY2-RZMW-6DTAB9-FY3Z1-0/c.aspx )
+
+( https://email.tennistv.com/2YY2-RZMW-6DTAB9-FY39W-0/c.aspx )
+
+( https://email.tennistv.com/2YY2-RZMW-6DTAB9-FY39X-0/c.aspx )
+
+( https://email.tennistv.com/2YY2-RZMW-6DTAB9-FY39Y-0/c.aspx )
+
+( https://email.tennistv.com/2YY2-RZMW-6DTAB9-FY39Z-0/c.aspx )
+
+Email Preferences ( https://email.tennistv.com/2YY2-RZMW-6DTAB9-FY3A0-0/c.aspx )
+Help ( https://email.tennistv.com/2YY2-RZMW-6DTAB9-FY3A1-0/c.aspx )
+T&amp;Cs ( https://email.tennistv.com/2YY2-RZMW-6DTAB9-FY3A2-0/c.aspx )
+Terms of Use ( https://email.tennistv.com/2YY2-RZMW-6DTAB9-FY3A3-0/c.aspx )
+Privacy Policy ( https://email.tennistv.com/2YY2-RZMW-6DTAB9-FY3A4-0/c.aspx )
+
+To ensure delivery, add info@tennistv.com to your contacts.
+Don't want to receive emails from us? Unsubscribe here https://email.tennistv.com/2YY2-RZMW-296DTAB9BD/uns.aspx.
+
+© ATP Media 2018
+Thames House, Portsmouth Road, Esher, KT10 9AD, UK.</p>]",informal
+1665752ca280072e,GeeksforGeeks <no-reply@geeksforgeeks.org>,Technical Scripter | Event by GeeksforGeeks,2018-10-09,"Logo Greetings from GeeksforGeeks!! &quot;The true alchemists do not change lead into gold, they change the world into words.&quot; GeeksforGeeks brings technical Scripter Event for all the students",,formal
+1665568114a7f5a3,Ayush Agarwal <ayushbansal323@gmail.com>,project code,2018-10-09,,,formal
+166556244f0bc5a0,Ayush Agarwal <ayushbansal323@gmail.com>,for dbms,2018-10-09,,,formal
+166556178f61defa,Zoosk <mail@messaging.zoosk.com>,"16 new singles we think you'll like: Sugandh, 19 years old from Mumbai, and more!",2018-10-08,"Hi Sk56, We did a little digging for you, and found some new people we think you&#39;ll be interested in. Check them out now! Sugandh 19 years old View Profile Expectopatronum 20 years old View Profile",,informal
+16655319249cfd68,Ayush Agarwal <ayushbansal323@gmail.com>,dbms,2018-10-09,,,formal
+16654d30eb63818b,Ayush Agarwal <ayushbansal323@gmail.com>,4th pic report,2018-10-08,,,formal
+16654bc90c280bcf,Sam Gavis-Hughson <sam+qotd@byte-by-byte.com>,I guarantee you’re making this interview mistake...,2018-10-08,"Hi Sunny Khandare - I&#39;m going to share with you one of the more embarrassing moments from my childhood. As a kid, I took piano lessons. The next door neighbors all got to take lessons so god dammit","[<p>Hi Sunny Khandare -
+
+I'm going to share with you one of the more embarrassing moments
+from my childhood.
+
+As a kid, I took piano lessons. The next door neighbors all got
+to take lessons so god dammit I wanted to do so as well. All
+told, I probably studied piano for 10 years and got respectably
+good during that time.
+
+Now if you’ve never studied any performing arts you may not know
+this, but recitals are a fairly regular occurrence. Several times
+a year, you get a chance to actually perform what you’ve been
+learning.
+
+In my case, my piano teacher had about 15 students, so we would
+have a recital for all the students and their parents. That meant
+on average you were performing for about 40 people.
+
+Well, I get up there to perform the piece that I’ve been
+practicing. Given the number of people, I’m pretty nervous,
+despite having spent the last 6 months practicing and memorizing
+the piece.
+
+I start playing and everything is going well. I’m not really
+paying attention to the audience, but I assume they’re enjoying
+it.
+
+And then…
+
+I mess up.
+
+Nothing horrible, but it causes me to stop for a second and
+restart. I start playing again, but immediately I know something
+is wrong.
+
+I’m not playing the right notes.
+
+I stop again.
+
+I try to restart a second time and the notes are still wrong.
+
+Now I’m starting to freak out a little bit, and I realize I have
+no idea what to do. I don’t know what the notes are. In the
+context of the piece, I can play it just fine from the beginning,
+but I didn’t prepare for this. I can’t just start playing the
+song at a random part in the middle.
+
+At this point all eyes are on me. My face is red. I sit there for
+a minute and then do the only thing I can do…
+
+I start over.
+
+Despite being over 2 minutes into a &gt; 4 minute piece, I go back
+to the very beginning and play the whole goddamned piece again.
+
+Luckily, the second time I made it through the piece without
+having to stop, but I realized something critical. You have to be
+able to self-correct if you get stuck. If I had simply practiced
+starting at different points during the song, I would have been
+fine.
+
+When I interview people, I see one mistake more than any other.
+It’s not lack of studying. It’s not a crappy resume. It’s not
+failing to develop rapport with me.
+
+The single biggest mistake that people make is that they have no
+plan for what to do when they get stuck.
+
+Like me in my piano recital, they are completely unprepared for
+this eventuality. And getting stuck is guaranteed to happen in
+your interview at one point or another.
+
+Everyone gets stuck sometimes, but the difference between those
+who succeed and those who fail in their interviews is their
+ability to get unstuck.
+
+That’s all there is to it. Rather than hoping that you manage to
+make it through your interview without getting stuck on a
+problem, those who consistently succeed have a plan for what to
+do when things don’t go their way.
+
+Tomorrow, I’m going to show you the 10 most powerful strategies I
+know for getting unstuck in your interview. With these tools
+under your belt you’ll be able to make it through even the
+toughest interview questions without stalling.
+
+But in the meantime, I’m curious. Hit reply to this email and
+tell me about a time that you got stuck during your interview.
+I’m interested to hear your story!
+
+Best,Sam
+
+Unsubscribe ( https://el2.convertkit-mail2.com/u/p9ukn6qkmna9hllxvx ) |
+Update your profile ( https://el2.convertkit-mail2.com/preferences/p9ukn6qkmna9hllxvx ) |
+26 Broadway, 8th Floor, New York, NY 10038</p>]",informal
+16654a23d448db9c,Aaditya Deshpande <aadityadeshpande1998@gmail.com>,Pcm report data,2018-10-08,,,formal
+166548dab949b2c9,Nikhil Badgujar <nikhilbadgujarand@gmail.com>,Fwd: CNL Lab Manual,2018-10-08,"---------- Forwarded message --------- From: Premraj Joshi &lt;premrajprj619@gmail.com&gt; Date: Thu, 4 Oct 2018 at 23:11 Subject: Fwd: CNL Lab Manual To: &lt;NIKHILBADGUJARAND@gmail.com&gt;, Yashodeep",,formal
+16652d0aef57735e,HackerRank Team <hackers@hackerrankmail.com>,Improve your Coding Skills with Is This a Binary Search Tree?,2018-10-08,"Hi Sunny, Improve your skills with this challenge recommended for you: Is This a Binary Search Tree? Data Structures | 34213 submissions Given the root of a binary tree, you have to tell if it&#39;s a","[<p>Is This a Binary Search Tree?    
+
+|  
+
+|  
+
+|  
+
+  |  
+
+  | ![](http://email.postmaster.hackerrankmail.com/c/eJw9jz2ugzAQhE8DHZb_8RYuUKJcI1qbNSAwQcYpcvsHzZOm-DQjjWZGD9aibBcvuXCCc8ed0gaYYMNTvWz_1Pzx0HZwutH8-Jw141mpsBnjSqXgvmZcNhY_uZ29c4ELaaxMOpqektAJ-kgUghsxQWw3P9d6nI0aGvm6NOG2UfmxuyPOSz7uosuHMQgJUUlD0iodgxZ9UqMxV7ZknOi8ICKCFdJ1KQF1OkjRIcTQBQQDhEBW9OzYp7b487vvP1xn3EcsZKxw15vpf3n1N74r5WPDSm_5BwhlVdc) ![](http://email.postmaster.hackerrankmail.com/c/eJxNkjtz4jAAhH8NdMdIsvwqKGKwTBhjwOgR3GQkS8TGsuMxSrjj1x9pbm5mi50tvmJ39TIOAonm7RIBGEEAIhB52I8XcPGy9kgQrjFYrXDwEuEZBuPnzfXy5sy0aGTdmWmSQ9fL1i7qz37eLL0g8mUM_DA2CsfoAhUKUAgiE2pfYgjmdtk4N95m3ssMkafu9_t_pB_KM7y1H4N0X5NZjMPHzCN65q3NWwJzoMualycGOTF9c9OZj0VakronLU99v75WCUVjy9bEUWGPp86WfDNSs95NnEVTDo5I9ttJMrvhaTHuMp3xjc3ZW5KL3rXK2n1B7Nl08au-8k4L1zG45cc-8s_Ify0fhFb9dsWuyUGS8VTaROxTslf27Bdp9SoGe9SD_s1I4fKHzSRzTqcNrTZkKtCY7AhJaeY8KfSe0rLJH6Xj1h52PHEl0md15ZuKVmfGtlbR1GdD0u_Tbcu6CigBV5w334zWd-YlByHionizfZHBa_UAcX6C9Gir71pshX4kXSViwtroUSPraFZ5BwqeLf76FaoI4th4z5lDFVxAhLHWtcIKXODFSCVDHGClw_m0vH0Nwx_ZNXLQcjJ-AKPnAz7-re2WP_bdmX600pl39Bc1mL0W) |
+
+  |
+
+  |
+
+  |
+|  
+
+|  
+
+  |  
+
+  | Hi Sunny,  
+    
+Improve your skills with this challenge recommended for you: |
+
+  |
+
+  |  
+
+  |  
+
+|  
+## [**Is This a Binary Search Tree?**](http://email.postmaster.hackerrankmail.com/c/eJx1U9uu4jAM_Bp4K0pzz0Mf0Kn4DeSmLq0gLUpTsfz9OtADnKNdKVKTscf2TNK2cloD3w4VZ6UtGbPMCqncrtzta3HQppbs60vqvZUbya7TnALMCeOuB3_GGGE8BxguOz-FbV-1tmu4NI5p76xQ0PHOahQemZeCS7W9VH1K143Yb_iB1u12-yiUixAIS-rp88SPEdshok8bcfDTmPAP7erc8pgwXC-Q8J3C9UoaWkoS1pRGSkLPeKczePTYGY26lGCkapQxxhpleNMprdCx1irvMiENAecEgSatSyUcl9o-AxMhDwlcZREqy1D_FkLwY873eBlJxxQpMfNfgmj_SxI_vqZXn6py5mckK8uYdE2Jiht0SvmyVNhYIUgLby0oaLh3TYvM-gfpZ6u1Kn-HlmXFoBFOeN9xiQ6UoCZtA7Z1jjngaOBBIUtybjZlzsDqy-rMf72hgO_hcsHxhPMKDHPRDCPEezEjRN8XKSI-ax6WFI6ebgSG0_iE6he_IHunEHBsIQ3TM8x1ZgTyfglrPmZ1H8F5WqJf69dcFj2di-8e21jNyzje4dwD1Y2odGnpFzi9nnuqft3ZX0wsB0Q ""Solve is-binary-search-tree!"")
+
+### Data Structures | 34,213 submissions
+  Given the root of a binary tree, you have to tell if it's a binary search tree. |
+
+  |
+
+  |  
+
+  | [Solve Challenge](http://email.postmaster.hackerrankmail.com/c/eJx1U9uu4jAM_Bp4K0pzz0Mf0Kn4DeSmLq0gLUpTsfz9OtADnKNdKVKTscf2TNK2cloD3w4VZ6UtGbPMCqncrtzta3HQppbs60vqvZUbya7TnALMCeOuB3_GGGE8BxguOz-FbV-1tmu4NI5p76xQ0PHOahQemZeCS7W9VH1K143Yb_iB1u12-yiUixAIS-rp88SPEdshok8bcfDTmPAP7erc8pgwXC-Q8J3C9UoaWkoS1pRGSkLPeKczePTYGY26lGCkapQxxhpleNMprdCx1irvMiENAecEgSatSyUcl9o-AxMhDwlcZREqy1D_FkLwY873eBlJxxQpMfNfgmj_SxI_vqZXn6py5mckK8uYdE2Jiht0SvmyVNhYIUgLby0oaLh3TYvM-gfpZ6u1Kn-HlmXFoBFOeN9xiQ6UoCZtA7Z1jjngaOBBIUtybjZlzsDqy-rMf72hgO_hcsHxhPMKDHPRDCPEezEjRN8XKSI-ax6WFI6ebgSG0_iE6he_IHunEHBsIQ3TM8x1ZgTyfglrPmZ1H8F5WqJf69dcFj2di-8e21jNyzje4dwD1Y2odGnpFzi9nnuqft3ZX0wsB0Q ""Solve is-binary-search-tree!"") |
+
+  |
+
+  |  
+
+  | Happy coding,  
+The HackerRank team |
+
+  |
+
+  |
+
+  |
+|  
+
+| |
+
+  |
+|  
+
+|  
+
+  |  
+
+  |  
+You are receiving this email because you have email notifications enabled on HackerRank account. Unsubscribe from this promotion [here](http://email.postmaster.hackerrankmail.com/c/eJx1U9uu4jAM_Bp4RLk5l4c-oIP4jcpJ3KUCCmpTcc7fb1JK6UG7UqWmY4_tGTexclqj2LaVYNxyxiyzUoHb8d3-II_aHBT7-lJ6b9VGsfttSFccEvW7E4Yz9T125yu2l124XbenShvmwEQmorEuIEljGi28joa4dOC3l-qU0n0j9xtxzM_j8VgVKkUyiGM65dcTr3uKbU8hbeQx3LpE3_l0KC3rRNf7BRO9U4SeSW3MSdIabpTK6Jl-8jcGCtQYTZorNAo8GGOsASN8AxrIsWghuEJI7ZWGhNc86YGDdEJp-wzcMjJJEFBEQJEB_xaS4WnO93gFSXXqc2LhL4Ly-UOSqJfpYa2qZK4jRVnBlPOcQBhyAIFzIG-lzFpEtAjoRXA-ErNhIv1uNVcV79A4zhh66WQIjVDkEGRuEj3a6BxzKMjgRMmWlNzZlJctszH_tQZee56On7ue6qzsKQ3Gbhh9fWm785P0y5UPXxZnCm4ZeEQkq5tsRUSljIpSEkndKA8UJAtgY5iJ790_6ev9wyK4RJ7fefxptCH0racZk5O6-jVEyTY2NNo5B0JFoWzIfjY8SIPeBgIjVYRGGh5fVTW1cSEv4L2npl4F7BIZV-hsxbavhrHrfvB8wi5iT6C5zdf4z3JlU_Xx3_0FXiszEQ). Copyright Â© 2016 HackerRank (2300 Geng Road, Suite 250 Palo Alto, California 94303), All rights reserved. |
+
+  |
+
+  |
+
+  |
+
+  |
+
+  |
+
+</p>]",informal
+16651ec67994bd46,Nikhil Badgujar <nikhilbadgujarand@gmail.com>,Fwd: DBMS all assignments from 6-12,2018-10-08,"---------- Forwarded message --------- From: MEHAK NARGOTRA &lt;mehaknargotra97@gmail.com&gt; Date: Mon, 8 Oct 2018, 08:54 Subject: DBMS all assignments from 6-12 To: Nikhil Badgujar &lt;",,formal
+1664fc36a9d6b372,Instagram <no-reply@mail.instagram.com>,"sunny_khiiiiiii, see new posts from viralclipz, trolls_official, julglushko and more",2018-10-07,"See what you may have missed from the people you follow on Instagram. Catch Up on Instagram See what&#39;s new, fun and inspired from the accounts you follow. See What&#39;s New sassy_swole Ashish",,formal
+1664f5b92b44a04b,Nikhil Badgujar <nikhilbadgujarand@gmail.com>,Fwd: groupA,2018-10-07,"---------- Forwarded message --------- From: Nikhil Badgujar &lt;nikhilbadgujarand@gmail.com&gt; Date: Mon, 24 Sep 2018, 00:41 Subject: Fwd: groupA To: &lt;r.agal360@gmail.com&gt; ---------- Forwarded",,formal
+1664f5b5cec175f0,Nikhil Badgujar <nikhilbadgujarand@gmail.com>,Fwd: B group(DBMS LAB),2018-10-07,---------- Forwarded message ---------- From: &quot;Nikhil Badgujar&quot; &lt;nikhilbadgujarand@gmail.com&gt; Date: 6 Oct 2018 18:54 Subject: Fwd: B group(DBMS LAB) To: &quot;MEHAK NARGOTRA&quot; &lt;,,formal
+1664ee5b7afbb342,Google <no-reply@accounts.google.com>,Security alert,2018-10-07,Sunny Khandare New device signed in to sunnyakhandare5618@gmail.com Your Google Account was just signed in to from a new Linux device. You&#39;re getting this email to make sure that it was you. Check,"[<p>Sunny Khandare
+
+New device signed in to
+sunnyakhandare5618@gmail.com
+Your Google Account was just signed in to from a new Linux device. You're
+getting this email to make sure that it was you.
+
+
+
+Check activity
+<https:>
+<https:>
+
+
+You received this email to let you know about important changes to your
+Google Account and services.
+Â© 2018 Google LLC,1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+1538921967000000
+</https:></https:></p>, <https:>
+<https:>
+
+
+You received this email to let you know about important changes to your
+Google Account and services.
+Â© 2018 Google LLC,1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+1538921967000000
+</https:></https:>, <https:>
+
+
+You received this email to let you know about important changes to your
+Google Account and services.
+Â© 2018 Google LLC,1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+1538921967000000
+</https:>]",informal
+1664da029bd86431,Zoosk <mail@messaging.zoosk.com>,"16 new singles we think you'll like: Anjali4f, 19 years old from Pune, and more!",2018-10-07,"Hi Sk56, We did a little digging for you, and found some new people we think you&#39;ll be interested in. Check them out now! Anjali4f 19 years old View Profile hotits 18 years old View Profile Sugandh",,informal
+1664ace16b90b4dc,Marvel Contest of Champions <news@contestofchampions.kabam.com>,"sunnykhiiiiiii, battle the Symbiote Supreme NOW!",2018-10-06,"Watch a new Motion Comic, play the new Blood &amp; Venom Event Quest, and enter the Occult Laboratory! Claim your very own Summoned Symbioid, enter an Occult Laboratory, and battle the Symbiote Supreme",,formal
+166480e802086b29,Janifa Nowfal <janifanowfal@gmail.com>,[dgplug-users]  Staircase meet at PyCon India,2018-10-06,"Hi, For all those folks who are attending PyCon India, the staircase meeting is scheduled on 07-10-2018 at 11 AM. Venue is not yet confirmed. Check for updates regarding venue on twitter at @kushaldas.",,informal
+16645e5beabd56a7,Zoosk <mail@messaging.zoosk.com>,"17 new singles we think you'll like: Misskhushi, 20 years old from Shivaji Nagar, and more!",2018-10-05,"Hi Sk56, We did a little digging for you, and found some new people we think you&#39;ll be interested in. Check them out now! Misskhushi 20 years old View Profile Megha 20 years old View Profile",,informal
+1664501a8d4a5a72,Sam Gavis-Hughson <sam+qotd@byte-by-byte.com>,This is the skill Google engineers have mastered...will you?,2018-10-05,"Hey Sunny Khandare - Every day, I talk to people about careers in software engineering. Whether via email with a new subscriber to this list or someone who has been around for the last year and a half,","[<p>Hey Sunny Khandare -
+
+Every day, I talk to people about careers in software
+engineering. Whether via email with a new subscriber to this list
+or someone who has been around for the last year and a half, or
+in person with one of my coaching clients, I see all different
+shades of software engineers.
+
+However, every single software engineer that I talk to aspires to
+the same thing: A job at a great company.
+
+I love this. There are so many places on the internet that
+attract software engineers that just want a job to get by.
+
+Here’s a Reddit post from a year ago:
+
+(If you don't see images below, click ""Display images"")
+
+( https://el2.convertkit-mail2.com/c/p9ukn6qkmnaqudmk5m/7qh7h8h8qdzzk/aHR0cHM6Ly93d3cuYnl0ZS1ieS1ieXRlLmNvbS9jaW0tZHluYW1pYy1wcm9ncmFtbWluZy8= )
+
+I find posts like this fascinating because of how they tend to
+polarize people. On forums like Reddit, there are posts like
+this, from someone who obviously gets the value of having a
+meaningful job, and then there are lots comments of jealousy from
+people wishing that they could have a job like that where they
+don’t have to do any work.
+
+I love the readers of Byte by Byte because you don’t think that
+way. You know what you really want, whether it’s a Big 4 or a hot
+startup. My job is just to show you how to get there.
+
+However, here’s the problem. Just knowing what you want is not
+enough. There are tons of people out there gunning for the same
+jobs. While the number is probably a little skewed down, Google
+has an acceptance rate of ~1%. That means out of 100
+interviewees, you need to be the best.
+
+When you’re interviewing at companies like Google, just having a
+vague understanding of a topic isn’t going to cut it. You need to
+understand every topic backwards and forwards.
+
+This is why I created Coding Interview Mastery: Dynamic
+Programming ( https://el2.convertkit-mail2.com/c/p9ukn6qkmnaqudmk5m/75u7h8hp6o56g/aHR0cHM6Ly9zdHVkZW50cy5ieXRlLWJ5LWJ5dGUuY29tL2R5bmFtaWMtcHJvZ3JhbW1pbmctc3AvP3V0bV9zb3VyY2U9YXV0b3Jlc3BvbmRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1ldmVyZ3JlZW4mdXRtX2NvbnRlbnQ9ZW1haWwz ). After seeing so many
+of my students putting in tons of effort only to still fail, I
+wanted to ensure that there was a better way to learn dynamic
+programming.
+
+With topics that counterintuitive, you might put in tens of hours
+only to realize you’ve barely made a dent in it and you can still
+only solve the most basic of problems. CIM: Dynamic Programming (
+https://el2.convertkit-mail2.com/c/p9ukn6qkmnaqudmk5m/o2ikhqhl6rd6z/aHR0cHM6Ly9zdHVkZW50cy5ieXRlLWJ5LWJ5dGUuY29tL2R5bmFtaWMtcHJvZ3JhbW1pbmctc3AvP3V0bV9zb3VyY2U9YXV0b3Jlc3BvbmRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1ldmVyZ3JlZW4mdXRtX2NvbnRlbnQ9ZW1haWwz ) takes everything that you need to
+know for your interview and packages in such a way that you can
+not only quickly understand it, but easily remember it in the
+heat of the interview.
+
+If you’re serious about interviewing, you’re going to put in many
+hours into studying and preparing. However, even with all the
+hours you’re putting in, there are so many different topics that
+it’s not like you’re actually spending a whole lot of time on any
+one.
+
+When you spend weeks on dynamic programming, that’s time that
+you’re taking away from other topics that you need to study.
+Remember that you need to be very strong on every topic to get
+the job at Google.
+
+Ultimately, as I talked about last week, this is an opportunity
+to invest in yourself. While no one is forcing you to do so,
+recognize how not making this investment will affect your life.
+You will continue studying dynamic programming. Maybe you’ll
+figure it out. Maybe you won’t. Maybe you’ll get the job. Maybe
+you won’t.
+
+But regardless of the outcome, you will invest large amounts of
+your time. Time that no amount of money can bring back. Chances
+are, you’ll realize later that you actually needed this course,
+and you’ll have wasted time and then still spend the money to
+purchase the course.
+
+This is why you should invest in this course today (
+https://el2.convertkit-mail2.com/c/p9ukn6qkmnaqudmk5m/zefghnhrk3xkg/aHR0cHM6Ly9zdHVkZW50cy5ieXRlLWJ5LWJ5dGUuY29tL2R5bmFtaWMtcHJvZ3JhbW1pbmctc3AvP3V0bV9zb3VyY2U9YXV0b3Jlc3BvbmRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1ldmVyZ3JlZW4mdXRtX2NvbnRlbnQ9ZW1haWwz ). Not tomorrow, not next week. The
+longer you put it off, the more time you waste.
+
+If you’re ready to get the job you’ve dreamed of and nail dynamic
+programming once and for all, join the course here. (
+https://el2.convertkit-mail2.com/c/p9ukn6qkmnaqudmk5m/pxteh9h52zo2v/aHR0cHM6Ly9zdHVkZW50cy5ieXRlLWJ5LWJ5dGUuY29tL2R5bmFtaWMtcHJvZ3JhbW1pbmctc3AvP3V0bV9zb3VyY2U9YXV0b3Jlc3BvbmRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1ldmVyZ3JlZW4mdXRtX2NvbnRlbnQ9ZW1haWwz )
+
+Best,
+
+Sam
+
+Unsubscribe ( https://el2.convertkit-mail2.com/u/p9ukn6qkmnaqudmk5m ) |
+Update your profile ( https://el2.convertkit-mail2.com/preferences/p9ukn6qkmnaqudmk5m ) |
+26 Broadway, 8th Floor, New York, NY 10038</p>]",informal
+16644a35b639dd18,InterviewBit <info@interviewbit.com>,"Sunny, don't let your streak break",2018-10-05,InterviewBit Hello Sunny! Keep up the tempo! You have been crushing it till this point achieving your daily score goals. Don&#39;t let your streak break. Come over and solve some problems! Keep the,"[<p>InterviewBit 
+( http://www.interviewbit.com/ahoy/messages/eVqyDmwXK7sIXwTJvaDAPwWHGqWfDg0p/click?signature=e54ee0ef7cccf6a11c35736caaba2d44528daf14&amp;url=http%3A%2F%2Fwww.interviewbit.com%2Fpractice )
+
+
+************
+Hello Sunny!
+************
+
+------------------
+Keep up the tempo!
+------------------
+
+You have been crushing it till this point achieving your
+daily score goals.
+
+Don't let your streak break.
+
+Come over and solve some problems!
+
+Keep the streak going!
+
+( http://www.interviewbit.com/ahoy/messages/eVqyDmwXK7sIXwTJvaDAPwWHGqWfDg0p/click?signature=8aedceabdf62d150c3e3f2d3039d200995d70773&amp;url=http%3A%2F%2Fwww.interviewbit.com%2Fpractice%3Fref%3Dstreak-mailer )
+
+
+Follow Us 
+( http://www.interviewbit.com/ahoy/messages/eVqyDmwXK7sIXwTJvaDAPwWHGqWfDg0p/click?signature=cfacd79c323a130d1fc218ba2fb3f82071619a6f&amp;url=https%3A%2F%2Ftwitter.com%2Finterview_bit )
+
+
+Like Us 
+( http://www.interviewbit.com/ahoy/messages/eVqyDmwXK7sIXwTJvaDAPwWHGqWfDg0p/click?signature=ac3eaeea7465311737b5a07b29243f013266a5e0&amp;url=https%3A%2F%2Ffacebook.com%2Finterviewbit )
+
+
+Â© 2018 InterviewBit
+
+hello@interviewbit.com |
+Unsubscribe 
+( http://www.interviewbit.com/users/unsubscribe/BAhpA7njBA==--354e1d888ce03a1c2efb3a0dfaeb3a3eb4a81970 )</p>]",formal
+1664058c2e85ebe0,InterviewBit <info@interviewbit.com>,"Sunny, you can still save your streak",2018-10-04,"InterviewBit Hello Sunny! Psst!! Your streak is halved, but you can still save it. Your streak was broken yesterday, and it is reduced to half. Shukkss! But you can still resume practicing daily and","[<p>InterviewBit 
+( http://www.interviewbit.com/ahoy/messages/DCnmdw9JGhy1edxeqxY6X4BH9cRqJx9I/click?signature=e54ee0ef7cccf6a11c35736caaba2d44528daf14&amp;url=http%3A%2F%2Fwww.interviewbit.com%2Fpractice )
+
+
+************
+Hello Sunny!
+************
+
+--------------------------------------------------------
+Psst!! Your streak is halved, but you can still save it.
+--------------------------------------------------------
+
+Your streak was broken yesterday, and it is reduced to
+half. Shukkss!
+
+But you can still resume practicing daily and rebuild your
+streak
+
+Keep the streak going!
+
+( http://www.interviewbit.com/ahoy/messages/DCnmdw9JGhy1edxeqxY6X4BH9cRqJx9I/click?signature=e9ebe27fa2d437dcb1d558de40cbc9aab17d0796&amp;url=http%3A%2F%2Fwww.interviewbit.com%2Fpractice%3Fref%3Dstreak-half-mailer )
+
+
+Follow Us 
+( http://www.interviewbit.com/ahoy/messages/DCnmdw9JGhy1edxeqxY6X4BH9cRqJx9I/click?signature=cfacd79c323a130d1fc218ba2fb3f82071619a6f&amp;url=https%3A%2F%2Ftwitter.com%2Finterview_bit )
+
+
+Like Us 
+( http://www.interviewbit.com/ahoy/messages/DCnmdw9JGhy1edxeqxY6X4BH9cRqJx9I/click?signature=ac3eaeea7465311737b5a07b29243f013266a5e0&amp;url=https%3A%2F%2Ffacebook.com%2Finterviewbit )
+
+
+Â© 2018 InterviewBit
+
+hello@interviewbit.com |
+Unsubscribe 
+( http://www.interviewbit.com/users/unsubscribe/BAhpA7njBA==--354e1d888ce03a1c2efb3a0dfaeb3a3eb4a81970 )</p>]",informal
+1663fde5624f0096,Sam Gavis-Hughson <sam+qotd@byte-by-byte.com>,Not sure Coding Interview Mastery: Dynamic Programming is right for you?,2018-10-04,"Hi Sunny Khandare - Yesterday I introduced you to my course, Coding Interview Mastery: Dynamic Programming. So far I&#39;ve had 60+ students go through the course and the feedback has been very","[<p>Hi Sunny Khandare -
+
+Yesterday I introduced you to my course, Coding Interview
+Mastery: Dynamic Programming ( https://el2.convertkit-mail2.com/c/zluwn90wknu7u7n9r5/6qheh8h657e3l/aHR0cHM6Ly9zdHVkZW50cy5ieXRlLWJ5LWJ5dGUuY29tL2R5bmFtaWMtcHJvZ3JhbW1pbmctc3AvP3V0bV9zb3VyY2U9YXV0b3Jlc3BvbmRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1ldmVyZ3JlZW4mdXRtX2NvbnRlbnQ9ZW1haWwy ). So
+far I've had 60+ students go through the course and the feedback
+has been very positive. Multiple students had dynamic programming
+finally click once they understood the FAST Method, even after
+struggling with dynamic programming for weeks prior to joining
+the course. That’s why so I’m thrilled to be making this
+publicly available for the first time.
+
+This course is specifically designed for anyone who has struggled
+with dynamic programming in any capacity. It will help you learn
+the system you need to effectively solve dynamic programming
+problems correctly every time.
+
+Today, I want to address a few of the questions that have kept
+coming up about the course. If you have any other concerns that I
+haven’t addressed, please don’t hesitate to reply to this email
+and I’m happy to address them.
+
+I already have your ebook. How is this course different?
+
+After writing Dynamic Programming for Interviews, I got a ton of
+great feedback including many people who wanted me to take the
+content deeper. They felt like the book got them started on the
+right track but they wanted something else to bring the concepts
+home.
+
+This course is my answer for those people. For anyone who wants
+to build on the knowledge that they learned in the book, this
+course is perfect.
+
+However, the course is also great for people who have never read
+my ebook. Reading the book is certainly not a prerequisite. The
+course covers all of the same material that is included in the
+book and then goes several levels deeper. I provide detailed
+explanations and walkthroughs of each step of the FAST Method and
+go through video solutions of 7 problems. I also include 7
+additional practice problems.
+
+On top of all of the added content in the course, I am also able
+to provide much better support for those in my course. Because I
+get so many emails every day, I have to prioritize where I spend
+my time, and paying customers are certainly at the top of that
+list. If you’re going through the course and have questions, I am
+always only an email away.
+
+How do I know this course will work for me?
+
+I’ve had this experience myself of trying to decide whether to
+invest in a course and wondering “is this going to work?” It’s a
+tough decision, because you always feel like you’re in a unique
+situation and even if it worked for other people, it probably
+won’t work for you.
+
+Well I’m here to tell you that that’s not true. We all like to
+think that we’re special snowflakes, but it turns out that 90% of
+the time, we’re all struggling with the exact same things. If you
+ever listen to podcasts like the Dave Ramsey Show, where he takes
+phone questions, you’ll notice after the first couple episodes
+that all of the questions are just the same few questions
+repeated over and over with different personal details.
+
+And guess what?! The answers to those questions is always the
+same.
+
+Through my ebook and the ~30 beta students in my course, I have
+tested the FAST Method with hundreds of people, and it works!
+Even if you feel like you're in a unique situation, I promise
+that the FAST Method will work for you too.
+
+Here’s one of my students, Anmol, describing his experience with
+the course:
+
+[Coding Interview Mastery: Dynamic Programming] is the best among
+everything that I have come across on the internet. Resources
+like GeeksforGeeks, InterviewCake and Cracking Coding interview
+are really good for interview preparation. I had gone through
+most of them, but I was never confident and never really
+understood how to solve DP problems before taking this course.
+
+After going through the course and using other additional
+resources (when needed), now I feel confident that I can tackle
+dynamic programming problems in my interviews (even if I have not
+seen that problem in the past). I am very comfortable using the
+FAST method (especially the top-down approach). I am gaining more
+confidence every time I go through the video lectures.
+
+As you can see, going through CIM: Dynamic Programming massively
+accelerated his progress on a difficult topic.
+
+In fact, I’m so confident that you’ll find this course valuable,
+that on top of everything else, I’m offering a 100% money back
+guarantee. If you go through the lectures and still can’t crack
+dynamic programming, all you have to do is email me and I’ll
+refund you everything. There’s absolutely no risk to you.
+
+Why should I buy this course when I can learn dynamic programming
+for free?
+
+As I talked about in my email from last week, I believe strongly
+that everyone should invest in themselves. When it comes to
+interviewing for jobs, there is a deadline. You have to learn
+everything by the time when you scheduled your interview.
+
+That means that time is not very abundant. There is a clear
+limited quantity of time that you have available, and you need to
+fit all of the studying that you want to do into that time. If
+you don’t totally figure out a topic before your interview,
+that’s it. It doesn’t matter to the company if you learn it
+later, because all they care about is your interview performance.
+
+Basically, you need to learn everything you will need for the
+interview before you get into the room.
+
+This course is an opportunity for you to trade money for massive
+time savings. There are so many things that you need to prepare
+for your interview that you can’t take weeks to learn dynamic
+programming. Without this course, I see people struggle for weeks
+and even months to really understand dynamic programming.
+
+Do you really have that kind of time? This course reduces all of
+the materials out there into 3 hours of video content. If you
+spend an extra 7 hours practicing on your own, that’s 10 hours
+TOTAL that you have to spend on dynamic programming. You’re
+certainly welcome to try to learn it on your own, but this course
+will allow you to quickly figure out dynamic programming and get
+back to all of your other studying.
+
+The bottom line is, if you’re ready to learn dynamic programming
+once and for all, this is the course for you. If you’ve wasted
+too much time not making progress, this course is for you. If you
+want to get your dream job, this course is for you.
+
+Click here to join Coding Interview Mastery: Dynamic Programming
+( https://el2.convertkit-mail2.com/c/zluwn90wknu7u7n9r5/k0umh6h25lvon/aHR0cHM6Ly9zdHVkZW50cy5ieXRlLWJ5LWJ5dGUuY29tL2R5bmFtaWMtcHJvZ3JhbW1pbmctc3AvP3V0bV9zb3VyY2U9YXV0b3Jlc3BvbmRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1ldmVyZ3JlZW4mdXRtX2NvbnRlbnQ9ZW1haWwy )
+
+Best,
+Sam
+
+Unsubscribe ( https://el2.convertkit-mail2.com/u/zluwn90wknu7u7n9r5 ) |
+Update your profile ( https://el2.convertkit-mail2.com/preferences/zluwn90wknu7u7n9r5 ) |
+26 Broadway, 8th Floor, New York, NY 10038</p>]",informal
+1663f7ca84ffeb2c,InterviewBit <info@interviewbit.com>,"Sunny, don't let your streak break",2018-10-04,InterviewBit Hello Sunny! Keep up the tempo! You have been crushing it till this point achieving your daily score goals. Don&#39;t let your streak break. Come over and solve some problems! Keep the,"[<p>InterviewBit 
+( http://www.interviewbit.com/ahoy/messages/Q4qweL3Q2rl8roS8MZXhVY4BviTsItNF/click?signature=e54ee0ef7cccf6a11c35736caaba2d44528daf14&amp;url=http%3A%2F%2Fwww.interviewbit.com%2Fpractice )
+
+
+************
+Hello Sunny!
+************
+
+------------------
+Keep up the tempo!
+------------------
+
+You have been crushing it till this point achieving your
+daily score goals.
+
+Don't let your streak break.
+
+Come over and solve some problems!
+
+Keep the streak going!
+
+( http://www.interviewbit.com/ahoy/messages/Q4qweL3Q2rl8roS8MZXhVY4BviTsItNF/click?signature=8aedceabdf62d150c3e3f2d3039d200995d70773&amp;url=http%3A%2F%2Fwww.interviewbit.com%2Fpractice%3Fref%3Dstreak-mailer )
+
+
+Follow Us 
+( http://www.interviewbit.com/ahoy/messages/Q4qweL3Q2rl8roS8MZXhVY4BviTsItNF/click?signature=cfacd79c323a130d1fc218ba2fb3f82071619a6f&amp;url=https%3A%2F%2Ftwitter.com%2Finterview_bit )
+
+
+Like Us 
+( http://www.interviewbit.com/ahoy/messages/Q4qweL3Q2rl8roS8MZXhVY4BviTsItNF/click?signature=ac3eaeea7465311737b5a07b29243f013266a5e0&amp;url=https%3A%2F%2Ffacebook.com%2Finterviewbit )
+
+
+Â© 2018 InterviewBit
+
+hello@interviewbit.com |
+Unsubscribe 
+( http://www.interviewbit.com/users/unsubscribe/BAhpA7njBA==--354e1d888ce03a1c2efb3a0dfaeb3a3eb4a81970 )</p>]",formal
+1663e2745d5b4af7,Zoosk <mail@messaging.zoosk.com>,Your top 10 Pune singles,2018-10-04,"Hi Sk56, We&#39;ve picked out 10 new matches for you. Meet them now and then check out all the singles in your area! Meet Your Top 10 Advertisement This message was sent to sunnyakhandare5618@gmail.com",,informal
+1663b327e89ba2b8,InterviewBit <info@interviewbit.com>,"Sunny, you can still save your streak",2018-10-03,"InterviewBit Hello Sunny! Psst!! Your streak is halved, but you can still save it. Your streak was broken yesterday, and it is reduced to half. Shukkss! But you can still resume practicing daily and","[<p>InterviewBit 
+( http://www.interviewbit.com/ahoy/messages/hWyReonDjbYP7Fl4GTv529ILX72ffeD6/click?signature=e54ee0ef7cccf6a11c35736caaba2d44528daf14&amp;url=http%3A%2F%2Fwww.interviewbit.com%2Fpractice )
+
+
+************
+Hello Sunny!
+************
+
+--------------------------------------------------------
+Psst!! Your streak is halved, but you can still save it.
+--------------------------------------------------------
+
+Your streak was broken yesterday, and it is reduced to
+half. Shukkss!
+
+But you can still resume practicing daily and rebuild your
+streak
+
+Keep the streak going!
+
+( http://www.interviewbit.com/ahoy/messages/hWyReonDjbYP7Fl4GTv529ILX72ffeD6/click?signature=e9ebe27fa2d437dcb1d558de40cbc9aab17d0796&amp;url=http%3A%2F%2Fwww.interviewbit.com%2Fpractice%3Fref%3Dstreak-half-mailer )
+
+
+Follow Us 
+( http://www.interviewbit.com/ahoy/messages/hWyReonDjbYP7Fl4GTv529ILX72ffeD6/click?signature=cfacd79c323a130d1fc218ba2fb3f82071619a6f&amp;url=https%3A%2F%2Ftwitter.com%2Finterview_bit )
+
+
+Like Us 
+( http://www.interviewbit.com/ahoy/messages/hWyReonDjbYP7Fl4GTv529ILX72ffeD6/click?signature=ac3eaeea7465311737b5a07b29243f013266a5e0&amp;url=https%3A%2F%2Ffacebook.com%2Finterviewbit )
+
+
+Â© 2018 InterviewBit
+
+hello@interviewbit.com |
+Unsubscribe 
+( http://www.interviewbit.com/users/unsubscribe/BAhpA7njBA==--354e1d888ce03a1c2efb3a0dfaeb3a3eb4a81970 )</p>]",informal
+1663ab2d0b5f3f94,Sam Gavis-Hughson <sam+qotd@byte-by-byte.com>,"I can’t do your interview for you, but this is pretty close…",2018-10-03,"Hi Sunny Khandare - Over the last two days I&#39;ve been telling you about why students tend to struggle so much with dynamic programming. On Monday, I showed you why dynamic programming is so hard and","[<p>Hi Sunny Khandare -
+
+Over the last two days I’ve been telling you about why students
+tend to struggle so much with dynamic programming. On Monday, I
+showed you why dynamic programming is so hard and yesterday we
+discussed why the most common approach to studying, memorization,
+fails for dynamic programming.
+
+So now that we fully understand the issue with dynamic
+programming, we can figure out how to solve it.
+
+The key to solving dynamic programming problems (or any other
+problems) effectively is to develop a system for solving these
+problems.
+
+I find that people often view each problem in isolation. This is
+certainly how memorization works. The problem with that, though,
+is the overwhelming amount of information that you need to retain
+to actually do well on your interviews.
+
+However, if you have a system and look at each problem as a part
+of a whole, you can see the threads that connect all the
+different problems, making it easier to see how brand new
+problems that you’ve never seen fit into the overall structure.
+
+Systems also ensure that you never get stuck during your
+interview. One of my readers described her interview experience
+like this:
+
+[There is] the panic state that comes when I get an unfamiliar
+problem and the brain paralysis that accompanies it. I blank out
+for what seems like a very long time, nothing comes out verbally.
+
+Having a system, while it won’t get rid of interview nervousness,
+means that you always know what your next step is. When in doubt
+or if you ever get stuck, you simply have to fall back on the
+next step in the system.
+
+Now, dynamic programming can be pretty counterintuitive. If you
+want to find the most efficient solution, then you have to start
+with a brute force solution. If you want to find an iterative
+solution, then you need to start with the recursive solution.
+
+This can make developing a system difficult to figure out on your
+own.
+
+That’s why I’m so excited to share with you my course Coding
+Interview Mastery: Dynamic Programming (
+https://el2.convertkit-mail2.com/c/o8ud9xgd69fwunp3l5/owhkhqhl6g4l9/aHR0cHM6Ly9zdHVkZW50cy5ieXRlLWJ5LWJ5dGUuY29tL2R5bmFtaWMtcHJvZ3JhbW1pbmctc3AvP3V0bV9zb3VyY2U9YXV0b3Jlc3BvbmRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1ldmVyZ3JlZW4mdXRtX2NvbnRlbnQ9ZW1haWwx ).
+
+Being able to effectively solve dynamic programming problems in
+your interview is incredibly important. I have had multiple
+students tell me stories of screwing up interviews just because
+they couldn’t do dynamic programming.
+
+(If you don't see images below, click ""Display images"")
+
+( https://el2.convertkit-mail2.com/c/o8ud9xgd69fwunp3l5/mvu7h5h9v0dwz/aHR0cHM6Ly93d3cuYnl0ZS1ieS1ieXRlLmNvbS9jaW0tZHluYW1pYy1wcm9ncmFtbWluZy8= )
+
+This sucks. You put in so much time and energy to prepare for
+your interviews, that the very last thing you want is to screw up
+on a single topic.
+
+In this course, you will learn about the FAST Method for solving
+dynamic programming problems so that you can solve any problem
+with ease, even if you’ve never seen it before. Rather than
+giving you a large set of questions and solutions to memorize,
+CIM: Dynamic Programming ( https://el2.convertkit-mail2.com/c/o8ud9xgd69fwunp3l5/wxi2hghv9o3po/aHR0cHM6Ly9zdHVkZW50cy5ieXRlLWJ5LWJ5dGUuY29tL2R5bmFtaWMtcHJvZ3JhbW1pbmctc3A_dXRtX3NvdXJjZT1hdXRvcmVzcG9uZGVyJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPWV2ZXJncmVlbiZ1dG1fY29udGVudD1lbWFpbDE= ) will
+walk you through exactly how to solve each problem in a way that
+you can apply to many other dynamic programming problems as well.
+
+Among other things, the course will teach you how to:
+
+* Identify when to use dynamic programming, so that you know
+exactly how to solve any problem in your interview
+* Solve any dynamic programming problem, even if you’ve never
+seen it before
+* Find both a top-down and bottom-up solution, and decide which
+is better so that you can ace your interview with the absolute
+best solution
+* Study with laser focus so that you retain everything you learn;
+no more blanking during your interviews
+
+If you’re someone who has always struggled with dynamic
+programming, stop trying to figure it out on your own. As many of
+my beta students have discovered going through this course
+material, dynamic programming has finally clicked in a way that
+it never had before.
+
+I had gone through [InterviewCake, Geeks for Geeks, etc], but I
+was never confident and never really understood how to solve DP
+problems before taking your course.
+
+- Anmol B.
+
+You can spend hours and days figuring this stuff out on your own,
+but it is going to be a long and slow journey. Let me help you
+learn dynamic programming in 1/10th the time so that you can ace
+your interview without breaking a sweat.
+
+Learn more about Coding Interview Mastery: Dynamic Programming
+here! ( https://el2.convertkit-mail2.com/c/o8ud9xgd69fwunp3l5/xvfph6hdp9nd2/aHR0cHM6Ly9zdHVkZW50cy5ieXRlLWJ5LWJ5dGUuY29tL2R5bmFtaWMtcHJvZ3JhbW1pbmctc3AvP3V0bV9zb3VyY2U9YXV0b3Jlc3BvbmRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1ldmVyZ3JlZW4mdXRtX2NvbnRlbnQ9ZW1haWwx )
+
+Best,
+
+Sam
+
+Unsubscribe ( https://el2.convertkit-mail2.com/u/o8ud9xgd69fwunp3l5 ) |
+Update your profile ( https://el2.convertkit-mail2.com/preferences/o8ud9xgd69fwunp3l5 ) |
+26 Broadway, 8th Floor, New York, NY 10038</p>]",informal
+1663a5697caf4fdc,InterviewBit <info@interviewbit.com>,"Sunny, don't let your streak break",2018-10-03,InterviewBit Hello Sunny! Keep up the tempo! You have been crushing it till this point achieving your daily score goals. Don&#39;t let your streak break. Come over and solve some problems! Keep the,"[<p>InterviewBit 
+( http://www.interviewbit.com/ahoy/messages/CO5MCIrVLlDrKmkhtTDMOSnQcn3VBLz5/click?signature=e54ee0ef7cccf6a11c35736caaba2d44528daf14&amp;url=http%3A%2F%2Fwww.interviewbit.com%2Fpractice )
+
+
+************
+Hello Sunny!
+************
+
+------------------
+Keep up the tempo!
+------------------
+
+You have been crushing it till this point achieving your
+daily score goals.
+
+Don't let your streak break.
+
+Come over and solve some problems!
+
+Keep the streak going!
+
+( http://www.interviewbit.com/ahoy/messages/CO5MCIrVLlDrKmkhtTDMOSnQcn3VBLz5/click?signature=8aedceabdf62d150c3e3f2d3039d200995d70773&amp;url=http%3A%2F%2Fwww.interviewbit.com%2Fpractice%3Fref%3Dstreak-mailer )
+
+
+Follow Us 
+( http://www.interviewbit.com/ahoy/messages/CO5MCIrVLlDrKmkhtTDMOSnQcn3VBLz5/click?signature=cfacd79c323a130d1fc218ba2fb3f82071619a6f&amp;url=https%3A%2F%2Ftwitter.com%2Finterview_bit )
+
+
+Like Us 
+( http://www.interviewbit.com/ahoy/messages/CO5MCIrVLlDrKmkhtTDMOSnQcn3VBLz5/click?signature=ac3eaeea7465311737b5a07b29243f013266a5e0&amp;url=https%3A%2F%2Ffacebook.com%2Finterviewbit )
+
+
+Â© 2018 InterviewBit
+
+hello@interviewbit.com |
+Unsubscribe 
+( http://www.interviewbit.com/users/unsubscribe/BAhpA7njBA==--354e1d888ce03a1c2efb3a0dfaeb3a3eb4a81970 )</p>]",formal
+16639c49877e1c49,Google <families-noreply@google.com>,You've created a family on Google,2018-10-03,"You&#39;ve created a family on Google Dear Sunny, You&#39;ve created a family group to share services, subscriptions and purchases across Google. Learn more about the services that your family can","[<p>[image: Google]
+You've created a family on Google
+Dear Sunny,
+You've created a family group to share services, subscriptions and  
+purchases across Google. Learn more about the services that your family can  
+enjoy together <https:>.
+You can manage your family group at any time in families.google.com  
+<https:>.
+
+You have received this mandatory email service announcement to update you  
+about important changes to your Google product or account.
+
+Google Inc.
+1600 Amphitheatre Parkway,
+Mountain View, CA 94043, USA
+
+
+</https:></https:></p>, <https:>.
+You can manage your family group at any time in families.google.com  
+<https:>.
+
+You have received this mandatory email service announcement to update you  
+about important changes to your Google product or account.
+
+Google Inc.
+1600 Amphitheatre Parkway,
+Mountain View, CA 94043, USA
+
+
+</https:></https:>, <https:>.
+
+You have received this mandatory email service announcement to update you  
+about important changes to your Google product or account.
+
+Google Inc.
+1600 Amphitheatre Parkway,
+Mountain View, CA 94043, USA
+
+
+</https:>]",formal
+166358f6c0183312,Sam Gavis-Hughson <sam+qotd@byte-by-byte.com>,Is the way you're studying dynamic programming actually working?,2018-10-02,Don&#39;t wait until your interview to find out. Hey Sunny Khandare - Yesterday I told you the reasons why dynamic programming is so difficult. It comes down to not properly learning how to solve the,"[<p>Don't wait until your interview to find out.
+
+Hey Sunny Khandare -
+
+Yesterday I told you the reasons why dynamic programming is so
+difficult. It comes down to not properly learning how to solve
+the problems and solutions that are difficult to fake.
+
+So why is this a problem? People don’t really “fake” their way
+through their interviews, right?
+
+Now I’m not saying people cheat their way through their
+interviews. I’m sure it happens but I doubt it’s a serious issue.
+When I say they fake it, I’m saying that they make it through
+interviews without understanding the underlying principles.
+
+This is actually how most people study. They focus on memorizing
+solutions.
+
+When you memorize solutions, you get a quick and easy win. It’s
+easy to fake your way through a lot of interview questions by
+recognizing the similarities between the problem you get asked
+and a problem that you’ve studied. As long as you remember the
+solution, you can probably muddle through.
+
+Therefore many people think that if they can just memorize enough
+solution they will be able to pass their interview because every
+problem will be similar to one they’ve seen before.
+
+This is the lazy approach to studying. You can immediately get
+started; all you need is a list of potential interview questions.
+You don’t need a plan, you don’t need a teacher, you don’t even
+need to fully understand the subjects that you’re studying.
+
+However, as you’ve probably guessed by now, there are a lot of
+flaws in this approach. I refuse to teach in this way because,
+while you may see short term results, the gains taper off quickly
+and it’s impossible to reach the level most people want to
+achieve through memorization.
+
+Among the flaws of memorization are:
+
+* There are so many possible problems out there that it’s
+unlikely you’ll ever see the same problem more than once. And
+even if you do, you should tell your interviewer you’ve seen it
+before ( https://el2.convertkit-mail2.com/c/75ug9kwgn9b2u8qvpz/dpheh0hkve84q/aHR0cDovL2NvZGluZ2ZvcmludGVydmlld3MuY29tL3NlZW4tcXVlc3Rpb24tYmVmb3Jl ).
+* When you memorize out of context, it can be really hard to
+remember what you learned. And on top of that, you’re not
+actually learning how to apply these skills, so you may see a
+similar problem and not know how to solve it.
+* Some categories of problems, like dynamic programming, seem
+unrelated when you look at the solutions. You can only find the
+connection when you understand how to solve the problems.
+
+Hopefully by now, you’ve realized that memorization probably
+isn’t a good approach for us to use with dynamic programming.
+Simply put, just having seen solutions to dynamic programming
+problems barely helps us at all when it comes to solving a
+problem we haven’t seen.
+
+Unless you understand the underlying theory of dynamic
+programming, you will always go into interviews wondering, “what
+if I can’t find the connection?” “What if they ask a dynamic
+programming problem and I don’t even know to use DP?”
+
+So if memorization won’t get us the results we want, how can we
+effectively prepare for our interviews? Tomorrow, I’m going to
+tell you how we can use a problem solving system to succeed in
+our interviews.
+
+Best,
+
+Sam
+
+Unsubscribe ( https://el2.convertkit-mail2.com/u/75ug9kwgn9b2u8qvpz ) |
+Update your profile ( https://el2.convertkit-mail2.com/preferences/75ug9kwgn9b2u8qvpz ) |
+26 Broadway, 8th Floor, New York, NY 10038</p>]",informal
+16633db9ae4b6244,Zoosk <mail@messaging.zoosk.com>,"17 new singles we think you'll like: Misskhushi, 20 years old from Shivaji Nagar, and more!",2018-10-02,"Hi Sk56, We did a little digging for you, and found some new people we think you&#39;ll be interested in. Check them out now! Misskhushi 20 years old View Profile hotits 18 years old View Profile Megha",,informal
+16632e72b87c2d70,BookMyShow <no-reply@entertainment.bookmyshow.com>,Relive the hunt for the Infinity Stones,2018-10-02,"Book for this re-release now. Report Spam YOUR CHANCE TO WATCH IT AGAIN! | AVENGERS: INFINITY WAR | OCT 2 | IN HINDI (UA) | BOOK NOW Experience the biggest saga in the Marvel Cinematic Universe, as all",,formal
+166314fd0573e8a2,Zoosk <mail@messaging.zoosk.com>,"17 new singles we think you'll like: Anjali4f, 19 years old from Pune, and more!",2018-10-01,"Hi Sk56, We did a little digging for you, and found some new people we think you&#39;ll be interested in. Check them out now! Anjali4f 19 years old View Profile Aaisha 18 years old View Profile hotits",,informal
+166307bd5276a2af,HackerRank Team <hackers@hackerrankmail.com>,Improve your Coding Skills with Arrays - DS,2018-10-01,"Hi Sunny, Improve your skills with this challenge recommended for you: Arrays - DS Data Structures | 292952 submissions Accessing and using arrays. Solve Challenge Happy coding, The HackerRank team You","[<p>Arrays - DS    
+
+|  
+
+|  
+
+|  
+
+  |  
+
+  | ![](http://email.postmaster.hackerrankmail.com/c/eJw9jz2ugzAQhE8DHRbrP3DhItET14jW9hoQmCDjV-T2wU2kKT7NSKOZYI3WyNvV8h5G6HsALRQIBgxG-dBPrqbq_E1jI_vzfZWEV6HMFvQb5YzHlnDdmX-ndrHO8zgMEQ1pikEE3Ws5OopI3gQdRbvbpZTzasSj4dOtGfed8ofVDr-s6axFt2-CA2684Iq4FtI7CUMUQak7WxPOdN3gEY0GPnYxGuqk49Ch8a5zaJShOgIGdh5zm-31fxwf3BY8AmZSGuqb-be82IqvQuncsdCLfwFUhFY_) ![](http://email.postmaster.hackerrankmail.com/c/eJxNUktzokAY_DV6izUPQDh4iMFRWcU4DkPgkvqYmQ2GgaDg89dHL1tb1YeuPnRVP_Qk8Dwgw_2EIOxjhDD2qIvpCI-w77x6U-KypxIyf-Cg9qfra-h6cxyVoCpzPEJT1bC3I_VTD8sJwFhhNfZ9cElhsKJ4DED8v0GBlEaOP7STsu_bbkBfB4Q9cLlc_nN6ujzEbv_VQH86mlHbfA0o0wMaSpKf0qTc78Ipy4QsFVHneO4mqdX3ndRX2cSr3VtHCrs-r-clkrfeSaXdpKK6ZpR5XERxnAaNWSyREBJDypc5ydlmwd9jaa8wj6eKtJQvohySuOdimvMFg13IUpGyKBMlbOu42815rWdMwIxl-iM6QMI7ydo0_lje5HfcbZvMEeH2Xlj9llcBXS9sxUOZJSw6aFld1d2W-Sxosn3_yKC3IsHwB7UHjqJvhaMV4PWN2zYu7NQt5gzJhW23VjsrxE4ps3UyC-bc2gsPp05mGS6oPud3FKx2mBoW8biS5zgtl1mNbxsR_ZjaFWDb5l2gR4svL3rsIg9czzWB47oIiKFgAqUC7RAPBV6gHGrGhg6Pk-7UNDeoSmg0HI3r4ecDvv6t3U-e9LM3dWuhN5_kF5NBvRA) |
+
+  |
+
+  |
+
+  |
+|  
+
+|  
+
+  |  
+
+  | Hi Sunny,  
+    
+Improve your skills with this challenge recommended for you: |
+
+  |
+
+  |  
+
+  |  
+
+|  
+## [**Arrays - DS**](http://email.postmaster.hackerrankmail.com/c/eJx1Utuu4jAM_Bp4AyXOpclDH84R4jdQ6hhaQVrUpmL5-3WgC-zRrlSpyczY8UwSa29tgHVXg5BOCiGlVUaqrdxKp7_sN5h9QXZ7t9LiOkw5hSnTuG0DnmkcQ39OobtscUjrthZSh6i8Bi1c08DxSB5sRZU5onJOVOtL3eZ8XamvFez5u91uH41KEwbDnFv-PfHDSLEbCfNK7XHoM_3i1a4ceciUrpeQ6S0BuxR1kUXKVbLSmtEz3XmPaKRFJF813jfSHK2lgMq6SqGPIHxs0IqqFOQu0ZRD4kl30ihnK-G8K8TAyMMCmGLCFBvm30YYfsz5Hq8g-ZBHFpb6lyFe_7AEh9f05tNVUX4yxVnBNBsiAxV5Y1BKQ41T7EpDdMGEBtA3kYTDR9HfRy1d4U3N84IdHSrtMMYoPCnhjXA6AoDHCJzWcwSOpGhLKFMBllyWZP6bDRPYhsuF-hNNCxBYcZ82cemzn3M6IN9C6E79E9q9ajYc6ZAS9THkbnjSYEtF4rzntOipOPogp2EekRYS9Kbl_ebPGeuxnua-v4dzG7jvSMbK8uxPryee6x_39BvCVAIw ""Solve arrays-ds!"")
+
+### Data Structures | 292,952 submissions
+  Accessing and using arrays. |
+
+  |
+
+  |  
+
+  | [Solve Challenge](http://email.postmaster.hackerrankmail.com/c/eJx1Utuu4jAM_Bp4AyXOpclDH84R4jdQ6hhaQVrUpmL5-3WgC-zRrlSpyczY8UwSa29tgHVXg5BOCiGlVUaqrdxKp7_sN5h9QXZ7t9LiOkw5hSnTuG0DnmkcQ39OobtscUjrthZSh6i8Bi1c08DxSB5sRZU5onJOVOtL3eZ8XamvFez5u91uH41KEwbDnFv-PfHDSLEbCfNK7XHoM_3i1a4ceciUrpeQ6S0BuxR1kUXKVbLSmtEz3XmPaKRFJF813jfSHK2lgMq6SqGPIHxs0IqqFOQu0ZRD4kl30ihnK-G8K8TAyMMCmGLCFBvm30YYfsz5Hq8g-ZBHFpb6lyFe_7AEh9f05tNVUX4yxVnBNBsiAxV5Y1BKQ41T7EpDdMGEBtA3kYTDR9HfRy1d4U3N84IdHSrtMMYoPCnhjXA6AoDHCJzWcwSOpGhLKFMBllyWZP6bDRPYhsuF-hNNCxBYcZ82cemzn3M6IN9C6E79E9q9ajYc6ZAS9THkbnjSYEtF4rzntOipOPogp2EekRYS9Kbl_ebPGeuxnua-v4dzG7jvSMbK8uxPryee6x_39BvCVAIw ""Solve arrays-ds!"") |
+
+  |
+
+  |  
+
+  | Happy coding,  
+The HackerRank team |
+
+  |
+
+  |
+
+  |
+|  
+
+| |
+
+  |
+|  
+
+|  
+
+  |  
+
+  |  
+You are receiving this email because you have email notifications enabled on HackerRank account. Unsubscribe from this promotion [here](http://email.postmaster.hackerrankmail.com/c/eJx1U1uOozAQPE3yGfn9-OBjVlGugex2s0EJJAKj7Nx-24QQJtqVkLCrH66qtlPljQli31aCcccZ49xIzeWBH7hTX-aX0KeCHE9up9j9NuYujBmHwznABYch9JcutNcD3Lr9uWISjEEvnTPBS2ZNUI3zkQnuebSc7a_VOef7Tn7txIm-x-OxaVSaEBimfKbfE68HTO2AkHfyBLc-4x9aHcuRdcbufg0Z3ynCLEVtoiTpLLdKEXrBb9oDaG4A0NvofeS6IaoBpHFWgk-C-RTBMFsKctvhmENHTI9cS2csc96VwI2QWYLQRYQuMvS_hRA883zTK0iu80CJpX4VROsPSaJe2eutqpK5jRRlBVMkCLWw6LUGzjVGJ0mVEskFHaIAHxMyB3PRz6OWruIdmqYFaxxI5SClxDxK5jVzKgkhPCRBbj0pkCUldzHlZctizH-t0a85z8vPWc99NvaUA6Z-nGJ9bfvLs-iHKx--rM7MuFcmChk9iigbFrFhhiHdSKcCiAZMI20ywSyF79k_y7fz16vgEnnuif5MbYShjbhgclZXv0iUbOugMd57LchDclVL1XCQNkQHqK1USRMRnl5dDbZpLV7B-4BNvQm4NTJt0MWK_VCNU99_h8s59CkMqA0vz_j3-mRz9XHv_gJ9nDFQ). Copyright Â© 2016 HackerRank (2300 Geng Road, Suite 250 Palo Alto, California 94303), All rights reserved. |
+
+  |
+
+  |
+
+  |
+
+  |
+
+  |
+
+</p>]",informal
+166306fac61e94db,Sam Gavis-Hughson <sam+qotd@byte-by-byte.com>,“Dynamic programming problems just inherently terrify me”,2018-10-01,"Hi Sunny Khandare - As you know if you&#39;ve spent any time preparing for interviews or exploring the Byte by Byte blog, there are lots of challenging topics that interviewers have to choose from when","[<p>Hi Sunny Khandare -
+
+As you know if you’ve spent any time preparing for interviews or
+exploring the Byte by Byte blog, there are lots of challenging
+topics that interviewers have to choose from when deciding what
+questions to ask.
+
+However, none quite so universally strikes fear into people’s
+hearts as dynamic programming.
+
+When I ask students what they struggle with most, I hear dynamic
+programming over and over again.
+
+(If you don't see images below, click ""Display images"")
+
+If you have any experience with dynamic programming, then you
+probably know that it’s hard. Unless you’re one of the lucky few
+who naturally “get” dynamic programming, I’ll bet this is a topic
+you’ve struggled with.
+
+But why is it so difficult? If we can understand why dynamic
+programming is so difficult, then we can potentially figure out
+how to make it easier, opening up all the job opportunities that
+were previously out of reach.
+
+The problems with dynamic programming are actually twofold:
+
+* Students rarely learn how to really solve these problems
+* On the surface, all dynamic programming solution seem totally
+different
+
+When you don’t understand how to really solve these problems, you
+are purely reliant on having seen similar problems before. And
+I’m not talking about theoretical knowledge. I’m talking
+specifically about understanding how to implement these
+solutions. So many people I talk to say they understand the
+theory but don’t know how to implement the solution.
+
+Let me tell you something. If you don’t know how to implement the
+solution, then you’re not going to pass your interview.
+
+Not understanding how to implement solutions is also why all the
+solutions look so different. On the surface they are, but if we
+understand how to implement them, we can recognize that they’re
+all implemented in the same way.
+
+It’s this lack of full understanding and apparent dissimilarity
+that makes dynamic programming so difficult. This is why it is a
+great way for interviewers to test if you really know your stuff.
+It also means you had better know it.
+
+Unfortunately, however, most ways that students prep for dynamic
+programming simply don’t work. Tomorrow, we’re going to see why
+standard methods of preparing for interviews are flawed when it
+comes to dynamic programming.
+
+Best,
+
+Sam
+
+Unsubscribe ( https://el2.convertkit-mail2.com/u/e5udmk2d3mf0ue69wq ) |
+Update your profile ( https://el2.convertkit-mail2.com/preferences/e5udmk2d3mf0ue69wq ) |
+26 Broadway, 8th Floor, New York, NY 10038</p>]",informal
+1662f3499b710591,Tennis TV <info@email.tennistv.com>,"LIVE 🎾: Watch Federer, Djokovic, Del Potro in the Asian Swing",2018-10-01,Watch live matches as the Asian Swing is underway... View in browser. Tennis TV Juan Martin del Potro Watch the Asian Swing on Tennis TV! We have plenty of live tennis action over the next two weeks on,"[<p>Watch live matches as the Asian Swing is underway...
+
+View in browser. https://email.tennistv.com/2YY2-RZFL-296DTAB9BD/cr.aspx
+
+
+
+WATCH THE ASIAN SWING ON TENNIS TV!
+
+We have plenty of live tennis action over the next two weeks on Tennis TV.
+
+Subscribe now and don't miss out on over 100 matches from a double-header from China Open and Rakuten Japan Open this week, followed by the Rolex Shanghai Masters next week.
+
+Watch the likes of Roger Federer, Novak Djokovic, Juan Martin del Potro, Alexander Zverev and Grigor Dimitrov go head-to-head for the titles in Asia this fortnight.
+
+You can watch every singles match LIVE or catch up later with our full REPLAY service.
+
+Join us now so you never miss a set on Tennis TV!
+
+SUBSCRIBE ( https://email.tennistv.com/2YY2-RZFL-6DTAB9-FTZPD-0/c.aspx )
+
+Asian Swing Schedule
+
+( https://email.tennistv.com/2YY2-RZFL-6DTAB9-FTZPE-0/c.aspx )
+
+Watch anytime, on any device.
+
+
+( https://email.tennistv.com/2YY2-RZFL-6DTAB9-FSCJY-0/c.aspx )
+
+( https://email.tennistv.com/2YY2-RZFL-6DTAB9-FSCJZ-0/c.aspx )
+
+( https://email.tennistv.com/2YY2-RZFL-6DTAB9-FSCK0-0/c.aspx )
+
+( https://email.tennistv.com/2YY2-RZFL-6DTAB9-FSCK1-0/c.aspx )
+
+Email Preferences ( https://email.tennistv.com/2YY2-RZFL-6DTAB9-FSCK2-0/c.aspx 
+Help ( https://email.tennistv.com/2YY2-RZFL-6DTAB9-FSCK3-0/c.aspx )
+T&amp;Cs ( https://email.tennistv.com/2YY2-RZFL-6DTAB9-FSCK4-0/c.aspx )
+Terms of Use ( https://email.tennistv.com/2YY2-RZFL-6DTAB9-FSCK5-0/c.aspx )
+Privacy Policy ( https://email.tennistv.com/2YY2-RZFL-6DTAB9-FSCK6-0/c.aspx )
+
+To ensure delivery, add info@tennistv.com to your contacts.
+Don't want to receive emails from us? Unsubscribe here https://email.tennistv.com/2YY2-RZFL-296DTAB9BD/uns.aspx.
+
+© ATP Media 2018
+Thames House, Portsmouth Road, Esher, KT10 9AD, UK.</p>]",formal
+1662ebfa994cf6f9,Zoosk <mail@messaging.zoosk.com>,"17 new singles we think you'll like: Anjali4f, 19 years old from Pune, and more!",2018-10-01,"Hi Sk56, We did a little digging for you, and found some new people we think you&#39;ll be interested in. Check them out now! Anjali4f 19 years old View Profile Megha 20 years old View Profile hotits",,informal
+1662e64a54135615,"""Change.org"" <change@mail.change.org>",Money,2018-10-01,"Dear Sunny, “My parents went beyond their means - and even mortgaged their house - for my higher education. But today my in-laws think that only they have every right on me and my hard-earned money.",,informal
+1662c1ebc7bc5a35,Zoosk <mail@messaging.zoosk.com>,"17 new singles we think you'll like: Komal, 18 years old from Naupada, and more!",2018-09-30,"Hi Sk56, We did a little digging for you, and found some new people we think you&#39;ll be interested in. Check them out now! Komal 18 years old View Profile Anjali4f 19 years old View Profile Somya 19",,informal
+1662b493c00e9416,Sam Gavis-Hughson <sam+qotd@byte-by-byte.com>,The problem with coding interview prep,2018-09-30,"Hi Sunny Khandare - Today I want to tell you about a serious problem. Unless you&#39;ve been living under a rock, I&#39;m sure that you&#39;ve noticed the sheer number of resources there are out there","[<p>Hi Sunny Khandare -
+
+Today I want to tell you about a serious problem.
+
+Unless you’ve been living under a rock, I’m sure that you’ve
+noticed the sheer number of resources there are out there to help
+you prepare for your interviews. There’s Cracking the Coding
+Interview, Leetcode, Hackerrank, Coding Bat and so many more.
+
+In theory, this is a good thing. There are so many resources to
+choose from. But every one of them is flawed.
+
+Every. Single. One.
+
+Every resource that I’ve ever come across focuses on the “what”
+of coding interviews.
+
+What questions are they going to ask?
+
+What topics should you prepare for?
+
+What coding language should you use?
+
+These are all useful and things that you need to know. But the
+problem is that everyone stops there. They tell you the what, and
+then you are left on your own to figure out the more important
+piece: The “how”.
+
+There is a big difference between knowing what something is and
+how to do it.
+
+I know what horseback archery is, but that doesn’t mean I’d be
+able to do it without falling off the horse and simultaneously
+shooting myself in the foot. Maybe I could figure it out on my
+own…if I found a horse that could shoot a bow and arrow.
+
+The same is true for coding interviews. There’s a big difference
+between knowing what to do and knowing how to do it. And if you
+don’t know the “how”, it’s very easy to metaphorically shoot
+yourself in the foot.
+
+I always have trouble deriving the DP solutions. Once I see the
+solution everything makes sense. But it seems magical to come up
+with it by yourself. It might help to have seen similar problem
+before. But it is not very intuitive.
+
+- Priyanka G.
+
+This is the reason why I created Byte by Byte. I wanted to answer
+the simple question of “how?”
+
+How do I study what I need to know effectively so that I don’t
+forget it in my interview?
+
+How do I answer any question, regardless of whether I’ve seen it
+before?
+
+How can I interview successfully?
+
+The FAST Method for solving dynamic programming problems is a
+perfect example of the “how” in action. Rather than show you lots
+of dynamic programming problems, I show you how to solve ANY
+dynamic programming problem.
+
+Unlike other resources, you don’t have to rely on memorizing
+every possible solution to every possible problem, because you
+know how to solve the problems.
+
+Once you have the FAST Method under your belt, you no longer have
+to worry about whether your interviewer will ask you a dynamic
+programming problem you’ve never seen before. You know how to
+solve whatever problem they ask, so tell them to “bring it on!”
+
+After reading this e-book, I feel very confident that I can solve
+any Dynamic Programming problem.
+- Ravi V.
+
+This is the power of learning “how”. Learning the “how” is the
+best way that I know of to supercharge your coding interview
+prep.
+
+Tomorrow, we’re going to dig deeper on this topic and look at
+dynamic programming in more depth, but in the meantime, I want to
+hear from you! Reply to this email and tell me what you think is
+the hardest thing about dynamic programming.
+
+See you then!
+
+Best,
+
+Sam
+
+Unsubscribe ( https://el2.convertkit-mail2.com/u/5qudo9ld2of8u0qpod ) |
+Update your profile ( https://el2.convertkit-mail2.com/preferences/5qudo9ld2of8u0qpod ) |
+26 Broadway, 8th Floor, New York, NY 10038</p>]",informal
+1662ae30626bdb49,InterviewBit <info@interviewbit.com>,"Sunny, don't let your streak break",2018-09-30,InterviewBit Hello Sunny! Keep up the tempo! You have been crushing it till this point achieving your daily score goals. Don&#39;t let your streak break. Come over and solve some problems! Keep the,"[<p>InterviewBit 
+( http://www.interviewbit.com/ahoy/messages/m1n93qF6J7qBmNIk0YWdRON89qkXPRB3/click?signature=e54ee0ef7cccf6a11c35736caaba2d44528daf14&amp;url=http%3A%2F%2Fwww.interviewbit.com%2Fpractice )
+
+
+************
+Hello Sunny!
+************
+
+------------------
+Keep up the tempo!
+------------------
+
+You have been crushing it till this point achieving your
+daily score goals.
+
+Don't let your streak break.
+
+Come over and solve some problems!
+
+Keep the streak going!
+
+( http://www.interviewbit.com/ahoy/messages/m1n93qF6J7qBmNIk0YWdRON89qkXPRB3/click?signature=8aedceabdf62d150c3e3f2d3039d200995d70773&amp;url=http%3A%2F%2Fwww.interviewbit.com%2Fpractice%3Fref%3Dstreak-mailer )
+
+
+Follow Us 
+( http://www.interviewbit.com/ahoy/messages/m1n93qF6J7qBmNIk0YWdRON89qkXPRB3/click?signature=cfacd79c323a130d1fc218ba2fb3f82071619a6f&amp;url=https%3A%2F%2Ftwitter.com%2Finterview_bit )
+
+
+Like Us 
+( http://www.interviewbit.com/ahoy/messages/m1n93qF6J7qBmNIk0YWdRON89qkXPRB3/click?signature=ac3eaeea7465311737b5a07b29243f013266a5e0&amp;url=https%3A%2F%2Ffacebook.com%2Finterviewbit )
+
+
+Â© 2018 InterviewBit
+
+hello@interviewbit.com |
+Unsubscribe 
+( http://www.interviewbit.com/users/unsubscribe/BAhpA7njBA==--354e1d888ce03a1c2efb3a0dfaeb3a3eb4a81970 )</p>]",formal
+166299336419b71e,Zoosk <mail@messaging.zoosk.com>,"17 new singles we think you'll like: Komal, 18 years old from Naupada, and more!",2018-09-30,"Hi Sk56, We did a little digging for you, and found some new people we think you&#39;ll be interested in. Check them out now! Komal 18 years old View Profile Anjali4f 19 years old View Profile Somya 19",,informal
+16629637a05e4bbd,noreply@codeforces.com,Codeforces - Email confirmation,2018-09-30,"Hello, SunnyKhandare. Your email was provided for registration on Codeforces and you were successfully registered. To confirm your email please follow the link https://codeforces.com/register/confirm/",,formal
+166295fc4643f91b,HackerRank Team <hackers@hackerrank.com>,HackerRank password reset instructions,2018-09-30,"Hi Sunny Khandare, As you have requested for reset password instructions, here they are, please follow the URL: Reset Password Alternatively, open the following url in your browser https://www.","[<p>Hi Sunny Khandare,
+
+As you have requested for reset password instructions, here they are, please follow the URL:
+
+[Reset Password](https://www.hackerrank.com/auth/reset_password?reset_password_token=APPSp7CykvMKkEYbbX6k)
+
+Alternatively, open the following url in your browser
+
+https://www.hackerrank.com/auth/reset\_password?reset\_password\_token=APPSp7CykvMKkEYbbX6k</p>]",formal
+166285548fc23098,Qustodio <no-reply@qustodio.com>,Last chance! Go Premium with 20% OFF!,2018-09-30,Last chance! Go Premium with 20% OFF! Unlock all the features you need to set healthy limits and ensure a successful school year. Use this coupon at checkout: SUCCESS2018 UPGRADE TO PREMIUM! We&#39;re,"[<p>A+ Deal:<br/> Go Premium with 20% OFF!
+
+
+
+
+<strong>Unlock all the features you need</strong> to set healthy limits and ensure a successful school year.
+
+Use this coupon at checkout:
+SUCCESS2018
+
+UPGRADE TO PREMIUM!:
+http://www.qustodio.com/family/premium-20
+
+
+
+
+We're here to help
+
+If you have any questions please contact our Help Center: http://www.qustodio.com/help/contact/
+
+
+
+
+
+
+Unsubscribe:
+https://family.qustodio.com/unsubscribe/?token=DnO0m3vuwxoG47hau_4HQzkgmbcWDpZkSkmWSjxCIM4n74uKngScOKU3FuwYVJRF&amp;locale=en
+
+Privacy Policy: http://www.qustodio.com/privacy
+Terms of Service: http://www.qustodio.com/terms
+
+Â© 2018 Qustodio is a registered trademark of Qustodio LLC. All right reserved.
+
+
+</p>, <br/>, <strong>Unlock all the features you need</strong>]",informal
+166251f1bd6c7251,Sam Gavis-Hughson <sam+qotd@byte-by-byte.com>,Welcome to Byte by Byte,2018-09-29,"Hey Sunny Khandare - Sam here from Byte by Byte. I&#39;m so excited to see you joined my email list! Over the next few weeks, I&#39;m going to guide you through the entire interview prep process. By by","[<p>Hey Sunny Khandare -
+
+Sam here from Byte by Byte. I’m so excited to see you joined my
+email list!
+
+Over the next few weeks, I’m going to guide you through the
+entire interview prep process. By by the end you’ll be solving
+interview problems like a pro. You’ll go from begging for a job
+offer to having companies fight over you!
+
+The techniques that I’m going to show you were developed over
+years of work with dozens of students. When I first founded Byte
+by Byte and started coaching back in 2016, I believed the
+conventional wisdom. That the best way to get good at
+interviewing was to drill practice problems.
+
+That’s certainly what everyone else teaches. Leetcode has 750+
+practice problems. Cracking the Coding Interview has 189. Other
+sites have thousands more.
+
+However, after seeing students fail interviews even after going
+through hundreds of problems, I realized that rote practice was
+not as effective as advertised. And when I dug deeper into my
+students’ experiences, I found out exactly why.
+
+After upgrading how I teach, my students’ results speak for
+themselves. They’ve landed jobs at companies like Amazon, Uber,
+Microsoft, Bloomberg, and more. And in these emails, I’m going to
+help you do the same.
+
+Tomorrow, I’m going to tell you exactly how everyone else is
+getting interview prep wrong.
+
+But first, have a quick request for you. Hit reply to this email
+and answer me:
+
+What is your biggest struggle right now preparing for coding
+interviews?
+
+I read every email, so your feedback is greatly appreciated.
+Ultimately, my goal is to help you as much as I can, and knowing
+your struggles helps me do that.
+
+Talk again soon!
+
+Best,
+
+Sam
+
+Unsubscribe ( https://el2.convertkit-mail2.com/u/68uv02wv50bouwzv6e ) |
+Update your profile ( https://el2.convertkit-mail2.com/preferences/68uv02wv50bouwzv6e ) |
+26 Broadway, 8th Floor, New York, NY 10038</p>]",informal
+166251d64aefb021,Sam Gavis-Hughson <sam+qotd@byte-by-byte.com>,Byte by Byte: Your ebook has arrived!,2018-09-29,Thanks for signing up to get Dynamic Programming for Interviews. I&#39;m so excited to give you your free copy! Click the link below to download your ebook now. Please note that by downloading the book,"[<p>Thanks for signing up to get Dynamic Programming for Interviews. I'm so excited to give you your free copy!
+
+Click the link below to download your ebook now.
+
+Please note that by downloading the book, you are also opting in to receive my email newsletter. I only send out really high quality stuff, so I know you'll like it, but you are also welcome to unsubscribe at any time.
+
+Download now! ( https://el2.convertkit-mail2.com/c/wvup97xp49fmi5483v/dpheh0hz/aHR0cHM6Ly9hcHAuY29udmVydGtpdC5jb20vbGFuZGluZ19wYWdlcy9hYzllMGJkOC02ZTcyLTQ4NmItYjk3Ny0zMWI3NDQwNTA1MWMvcmVkZWVt )
+
+It's good to have you here :)
+
+Unsubscribe ( https://el2.convertkit-mail2.com/u/wvup97xp49fmi5483v ) | | 26 Broadway, 8th Floor, New York, NY 10038</p>]",informal
+16624f90afab75f1,Meghal RYR <meghalryr@gmail.com>,I am sharing '0_189935.pdf' with you,2018-09-29,Shared from Word for Android https://office.com/getword,,formal
+16621d628fa679c0,Zoosk <mail@messaging.zoosk.com>,"16 new singles we think you'll like: Misskhushi, 20 years old from Shivaji Nagar, and more!",2018-09-28,"Hi Sk56, We did a little digging for you, and found some new people we think you&#39;ll be interested in. Check them out now! Misskhushi 20 years old View Profile Komal 18 years old View Profile Pihu",,informal
+1661fe1516cdbbb3,Mutual Fund <noreply@way2sms.biz>,Finally-The guide to help you control your investment is here!,2018-09-28,Basic 10 tips to Pick Right Mutual Funds for Your Portfolio 4 Benefits of Starting Early Investment - Higher risk-taking capacity - Better spending habits - Power of compounding - Quality of life,,formal
+1661f527984b14ba,Stack Overflow <do-not-reply@stackoverflow.email>,10 Years of Stack Overflow,2018-09-28,We couldn&#39;t have gotten here without you Joel Spolsky interview 10 Years of Stack Overflow Stack Overflow launched 10 years ago this month. We started the site to help developers find solutions to,"[<p>We couldn't have gotten here without you 
+
+
+
+
+ <https:> 
+
+10 Years of Stack Overflow
+
+
+Stack Overflow launched 10 years ago this month. We started the site to help 
+developers find solutions to their coding problems. Today, it’s a standard part 
+of every developer’s toolkit.
+
+Over the last 10 years, three million of you have written 25 million answers 
+to 16 million questions. It’s been amazing to see programmers help each other. 
+And from the incredible Q&amp;A we built together to things like ourSalary 
+Calculator <https:> and Stack Overflow for Teams 
+<https:>, we look forward to continuing to help you.
+
+We hope you enjoy this short video.
+
+But more than anything, we want to say thank you. We couldn’t have gotten here 
+without you.
+
+– Joel
+
+
+Watch Video <https:> 
+
+ You're receiving this message because you are opted in to Stack Overflow 
+company, product and feature announcements. 
+Unsubscribe from emails like this 
+<https:>
+    Edit email settings 
+<https:>
+    Leave feedback <https:>     Privacy 
+<https:> 
+Stack Overflow, 110 William Street, 28th Floor, New York, NY 10038 
+
+&lt;3 </https:></https:></https:></https:></https:></https:></https:></https:></p>, <https:> 
+
+10 Years of Stack Overflow
+
+
+Stack Overflow launched 10 years ago this month. We started the site to help 
+developers find solutions to their coding problems. Today, it’s a standard part 
+of every developer’s toolkit.
+
+Over the last 10 years, three million of you have written 25 million answers 
+to 16 million questions. It’s been amazing to see programmers help each other. 
+And from the incredible Q&amp;A we built together to things like ourSalary 
+Calculator <https:> and Stack Overflow for Teams 
+<https:>, we look forward to continuing to help you.
+
+We hope you enjoy this short video.
+
+But more than anything, we want to say thank you. We couldn’t have gotten here 
+without you.
+
+– Joel
+
+
+Watch Video <https:> 
+
+ You're receiving this message because you are opted in to Stack Overflow 
+company, product and feature announcements. 
+Unsubscribe from emails like this 
+<https:>
+    Edit email settings 
+<https:>
+    Leave feedback <https:>     Privacy 
+<https:> 
+Stack Overflow, 110 William Street, 28th Floor, New York, NY 10038 
+
+&lt;3 </https:></https:></https:></https:></https:></https:></https:></https:>, <https:> and Stack Overflow for Teams 
+<https:>, we look forward to continuing to help you.
+
+We hope you enjoy this short video.
+
+But more than anything, we want to say thank you. We couldn’t have gotten here 
+without you.
+
+– Joel
+
+
+Watch Video <https:> 
+
+ You're receiving this message because you are opted in to Stack Overflow 
+company, product and feature announcements. 
+Unsubscribe from emails like this 
+<https:>
+    Edit email settings 
+<https:>
+    Leave feedback <https:>     Privacy 
+<https:> 
+Stack Overflow, 110 William Street, 28th Floor, New York, NY 10038 
+
+&lt;3 </https:></https:></https:></https:></https:></https:></https:>, <https:>, we look forward to continuing to help you.
+
+We hope you enjoy this short video.
+
+But more than anything, we want to say thank you. We couldn’t have gotten here 
+without you.
+
+– Joel
+
+
+Watch Video <https:> 
+
+ You're receiving this message because you are opted in to Stack Overflow 
+company, product and feature announcements. 
+Unsubscribe from emails like this 
+<https:>
+    Edit email settings 
+<https:>
+    Leave feedback <https:>     Privacy 
+<https:> 
+Stack Overflow, 110 William Street, 28th Floor, New York, NY 10038 
+
+&lt;3 </https:></https:></https:></https:></https:></https:>, <https:> 
+
+ You're receiving this message because you are opted in to Stack Overflow 
+company, product and feature announcements. 
+Unsubscribe from emails like this 
+<https:>
+    Edit email settings 
+<https:>
+    Leave feedback <https:>     Privacy 
+<https:> 
+Stack Overflow, 110 William Street, 28th Floor, New York, NY 10038 
+
+&lt;3 </https:></https:></https:></https:></https:>, <https:>
+    Edit email settings 
+<https:>
+    Leave feedback <https:>     Privacy 
+<https:> 
+Stack Overflow, 110 William Street, 28th Floor, New York, NY 10038 
+
+&lt;3 </https:></https:></https:></https:>, <https:>
+    Leave feedback <https:>     Privacy 
+<https:> 
+Stack Overflow, 110 William Street, 28th Floor, New York, NY 10038 
+
+&lt;3 </https:></https:></https:>, <https:>     Privacy 
+<https:> 
+Stack Overflow, 110 William Street, 28th Floor, New York, NY 10038 
+
+&lt;3 </https:></https:>, <https:> 
+Stack Overflow, 110 William Street, 28th Floor, New York, NY 10038 
+
+&lt;3 </https:>]",formal
+1661e9730af01b2e,SPPU No Reply <no-reply@pun.unipune.ac.in>,Be a part of the transformation: NITI Aayog - Pune Smart City > Hackathon : Savitribai Phule Pune University,2018-09-28,"Be a part of the transformation: NITI Aayog - Pune Smart City &gt; Hackathon : Savitribai Phule Pune University Dear Students, Please find information below, regarding participation in Pune Smart City","[<p>Dear Students,
+Please find information below, regarding participation in Pune Smart City
+Hackathon. Savitribai Phule Pune University is a partner institute
+in this initiative encourage students to participate in the same and
+showcase your talents.
+
+SUBJECT:
+
+ABOUT [1] | QUERIES [2] | CONTACT [3] NITI AAYOG - PUNE SMART CITY
+HACKATHON LET'S CO-INNOVATE TO MAKE OUR CITIES SMARTER REGISTRATION AND
+MORE INFORMATION [1] Pune Smart City is organizing the first SMART CITY
+HACKATHON in association with NITI AAYOG where participants will come
+together to work on prototypes/ideas which would solve some of the key
+urban governance issues of Pune city in a sustainable manner. The Hackathon
+participants are encouraged to put on the technology hats and PROVIDE
+SUSTAINABLE SOLUTIONS for the city. The solutio can either be an
+up-and-running product or an innovative idea with a working prototype.
+
+------------------------- THEMES FOR HACKATHON * Water Management * Solid
+Waste Management * Safety and Security * Public Health * Digital
+Connectivity QUERIES [2] -------------------------
+------------------------- The best team, each in Solutionthon and Ideathon
+tracks, across the five themes combined, will qualify for a cash reward of
+INR 2 Lac each. Three more teams in each track may qualify for an award of
+INR 1 Lac each in the event that the entries are adjudged to be of an
+exceptional quality by the jury. What's more!!! The top Teams stand a
+chance to be potentially incubated by Pune Smart City. CONNECT WITH US [3]
+Pune Smart City Development Corporation Limited A-204, ICC Tower, Senapati
+Bapat Road Pune-411016, Maharashtra, India [4] [5] [6] [7] All rights
+reserved
+
+http://appmail.pun.unipune.ac.in/lists/lt.php?tid=PB0qVK9G5FmLiYemPre0sTrCv5TrgwT0tr/C53LMkowuqu6xyZl1i5EOKCRt/Wel
+
+http://appmail.pun.unipune.ac.in/lists/lt.php?tid=J4nCXU4yj5qofse30v+6NjrCv5Trg7T0tr/C53LMkowuqu6xyZnFi5EOKCRt/Wel
+
+http://appmail.pun.unipune.ac.in/lists/lt.php?tid=0IdADimzkSGl1gvwaQ5XWzrCv5Trg1T0tr/C53LMkowuqu6xyZlFi5EOKCRt/Wel
+
+http://appmail.pun.unipune.ac.in/lists/lt.php?tid=D3u33+ZRVHCQ9ev3TXB3bTrCv5Trg6T0tr/C53LMkowuqu6xyZnli5EOKCRt/Wel
+
+http://appmail.pun.unipune.ac.in/lists/lt.php?tid=aEUIkEEK7NCLsCPcf0JeVTrCv5Trg0T0tr/C53LMkowuqu6xyZkli5EOKCRt/Wel
+
+http://appmail.pun.unipune.ac.in/lists/lt.php?tid=KGeht6wWcyS7pPqpHVr+6zrCv5Trg3T0tr/C53LMkowuqu6xyZlVi5EOKCRt/Wel
+
+http://appmail.pun.unipune.ac.in/lists/lt.php?tid=6b1iXLVuJXClu+AyM7osszrCv5Trg3T0tr/C53LMkowuqu6xyZnFi5EOKCRt/Wel
+
+
+
+Make sure our mails always go to your Inbox.Please add
+no-reply@pun.unipune.ac.in in your AddressBook or Safe sender's List
+
+</p>]",formal
+1661cd6649a37fc2,Marvel Contest of Champions <news@contestofchampions.kabam.com>,[VIDEO] Get a NEW Champion - Emma Frost!,2018-09-27,Attack your enemies with telepathic strikes - win Emma Frost NOW! Watch Emma Frost&#39;s Special Moves! GET CHAMPION! NEW CHAMPION! EMMA FROST Maximum Power Index: 3821 Emma Frost is an incredibly,,formal
+1661cb22620bfa3e,Zoosk <mail@messaging.zoosk.com>,Your top 10 Pune singles,2018-09-27,"Hi Sk56, We&#39;ve picked out 10 new matches for you. Meet them now and then check out all the singles in your area! Meet Your Top 10 Advertisement This message was sent to sunnyakhandare5618@gmail.com",,informal
+1661b07820d414ff,Qustodio <no-reply@qustodio.com>,Your coupon is still here ✂️ - 20% OFF,2018-09-27,Remember! Go Premium with 20% OFF! Unlock all the features you need to set healthy limits and ensure a successful school year. Use this coupon at checkout: SUCCESS2018 UPGRADE TO PREMIUM! We&#39;re,"[<p>A+ Deal:<br/> Go Premium with 20% OFF!
+
+
+
+
+<strong>Unlock all the features you need</strong> to set healthy limits and ensure a successful school year.
+
+Use this coupon at checkout:
+SUCCESS2018
+
+UPGRADE TO PREMIUM!:
+http://www.qustodio.com/family/premium-20
+
+
+
+
+We're here to help
+
+If you have any questions please contact our Help Center: http://www.qustodio.com/help/contact/
+
+
+
+
+
+
+Unsubscribe:
+https://family.qustodio.com/unsubscribe/?token=d37Td8EbTDt694tUgIjN4agKvqYcDRUCK7x2sSDZQcKfwx2FrmL9Vg-fchVVlnyu&amp;locale=en
+
+Privacy Policy: http://www.qustodio.com/privacy
+Terms of Service: http://www.qustodio.com/terms
+
+Â© 2018 Qustodio is a registered trademark of Qustodio LLC. All right reserved.
+
+
+</p>, <br/>, <strong>Unlock all the features you need</strong>]",informal
+1661ac95419e468b,Zoosk <mail@messaging.zoosk.com>,You have 5 new SmartPicks.,2018-09-27,"Hi Sk56, You have 5 new SmartPicks. See who you match with and start chatting! Hurry, you only get 24 hours to respond. View Your SmartPicks Advertisement Sent from the at Zoosk. This message was sent",,formal
+1661a93eb92a9054,"""Change.org"" <change@mail.change.org>",Biscuits,2018-09-27,"Dear Sunny, “I love Britannia biscuits and cakes. But the melting butter and chocolate leave a bitter taste in my mouth every time I think about the unnecessary plastic waste that is created with every",,formal
+1661a54e07d6c763,GeeksforGeeks <no-reply@geeksforgeeks.org>,Register now for the new courses | GeeksforGeeks,2018-09-27,"Logo Greetings from GeeksforGeeks!! &quot;Learning is not attained by chance, it must be sought for with ardor and diligence.&quot; We are happy to announce our new Courses at GeeksforGeeks. Course",,formal
+16616ba81dd7b755,Sayan Chowdhury <sayan.chowdhury2012@gmail.com>,Re: [dgplug-users] Who all are travelling for PyCon India 2018?,2018-09-26,"On Thu, Aug 23, 2018 at 3:41 PM Sayan Chowdhury &lt;sayan.chowdhury2012@gmail.com&gt; wrote: &gt; &gt; Hi, &gt; &gt; Saptak and I are looking for accommodation during PyCon India 2018 in &gt; Hyderabad",,formal
+166159d0b6df68b7,Zoosk <mail@messaging.zoosk.com>,You have 4 new SmartPicks.,2018-09-26,"Hi Sk56, You have 4 new SmartPicks. See who you match with and start chatting! Hurry, you only get 24 hours to respond. View Your SmartPicks Advertisement Sent from the at Zoosk. This message was sent",,formal
+166156c13216d94d,BookMyShow <no-reply@entertainment.bookmyshow.com>,"India, are you ready for Sui Dhaaga?",2018-09-26,"Book now to avoid the sold out sign. Report Spam SUI DHAAGA - MADE IN INDIA | PLANS OPEN HINDI (U) | BOOK NOW SMALL TOWN, BIG DREAMS Directed by Sharat Katariya and starring Varun Dhawan and Anushka",,informal
+16610a0bd32ee69b,Shashikant jagtap <shashikantjagtap27@gmail.com>,Fwd: Shopact document,2018-09-25,"---------- Forwarded message --------- From: Shashikant jagtap &lt;shashikantjagtap27@gmail.com&gt; Date: Tue, 25 Sep 2018, 5:18 pm Subject: Fwd: Shopact document To: &lt;sunnyakhandare5618@gmail.com",,formal
+16610a0b9f2e2831,Shashikant jagtap <shashikantjagtap27@gmail.com>,Fwd: Shopact document,2018-09-25,"---------- Forwarded message --------- From: Shashikant jagtap &lt;shashikantjagtap27@gmail.com&gt; Date: Tue, 25 Sep 2018, 5:17 pm Subject: Fwd: Shopact document To: &lt;sunnyakhandare5618@gmail.com",,formal
+16610a0b365d38cf,Shashikant jagtap <shashikantjagtap27@gmail.com>,Fwd: Shopact document,2018-09-25,"---------- Forwarded message --------- From: Shashikant jagtap &lt;shashikantjagtap27@gmail.com&gt; Date: Tue, 25 Sep 2018, 5:12 pm Subject: Fwd: Shopact document To: &lt;sunnyakhandare5618@gmail.com",,formal
+16610a0b2fa8584e,Shashikant jagtap <shashikantjagtap27@gmail.com>,Fwd: Shopact document,2018-09-25,"---------- Forwarded message --------- From: Shashikant jagtap &lt;shashikantjagtap27@gmail.com&gt; Date: Tue, 25 Sep 2018, 5:22 pm Subject: Fwd: Shopact document To: &lt;sunnyakhandare5618@gmail.com",,formal
+16610a0b01df95a9,Shashikant jagtap <shashikantjagtap27@gmail.com>,Fwd: Shopact document,2018-09-25,"---------- Forwarded message --------- From: Shashikant jagtap &lt;shashikantjagtap27@gmail.com&gt; Date: Tue, 25 Sep 2018, 5:17 pm Subject: Fwd: Shopact document To: &lt;sunnyakhandare5618@gmail.com",,formal
+16610a0abaac54b5,Shashikant jagtap <shashikantjagtap27@gmail.com>,Fwd: Shopact document,2018-09-25,"---------- Forwarded message --------- From: Shashikant jagtap &lt;shashikantjagtap27@gmail.com&gt; Date: Tue, 25 Sep 2018, 5:07 pm Subject: Fwd: Shopact document To: &lt;sunnyakhandare5618@gmail.com",,formal
+16610a0a988968f5,Shashikant jagtap <shashikantjagtap27@gmail.com>,Fwd: Shopact document,2018-09-25,"---------- Forwarded message --------- From: Ketan Arekar &lt;arekarketan99@gmail.com&gt; Date: Tue, 25 Sep 2018, 3:20 pm Subject: Shopact document To: &lt;shashikantjagtap27@gmail.com&gt;",,formal
+16610a0a77a9ed16,Shashikant jagtap <shashikantjagtap27@gmail.com>,Fwd: Shopact document,2018-09-25,"---------- Forwarded message --------- From: Shashikant jagtap &lt;shashikantjagtap27@gmail.com&gt; Date: Tue, 25 Sep 2018, 5:06 pm Subject: Fwd: Shopact document To: &lt;sunnyakhandare5618@gmail.com",,formal
+16610a0a18a49abe,Shashikant jagtap <shashikantjagtap27@gmail.com>,Fwd: Shop act docuemt,2018-09-25,"---------- Forwarded message --------- From: Ketan Arekar &lt;arekarketan99@gmail.com&gt; Date: Tue, 25 Sep 2018, 3:39 pm Subject: Shop act docuemt To: &lt;shashikantjagtap27@gmail.com&gt;",,formal
+16610a09ae3bad8f,Shashikant jagtap <shashikantjagtap27@gmail.com>,Re: Shop act docuemt,2018-09-25,"On Tue, 25 Sep 2018, 4:59 pm Shashikant jagtap, &lt;shashikantjagtap27@gmail.com&gt; wrote: ---------- Forwarded message --------- From: Ketan Arekar &lt;arekarketan99@gmail.com&gt; Date: Tue, 25 Sep","[<p>On Tue, 25 Sep 2018, 4:59 pm Shashikant jagtap, &lt;
+shashikantjagtap27@gmail.com&gt; wrote:
+
+&gt;
+&gt; ---------- Forwarded message ---------
+&gt; From: Ketan Arekar <arekarketan99>
+&gt; Date: Tue, 25 Sep 2018, 3:39 pm
+&gt; Subject: Shop act docuemt
+&gt; To: <shashikantjagtap27>
+&gt;
+&gt;
+&gt;
+&gt;
+</shashikantjagtap27></arekarketan99></p>, <arekarketan99>
+&gt; Date: Tue, 25 Sep 2018, 3:39 pm
+&gt; Subject: Shop act docuemt
+&gt; To: <shashikantjagtap27>
+&gt;
+&gt;
+&gt;
+&gt;
+</shashikantjagtap27></arekarketan99>, <shashikantjagtap27>
+&gt;
+&gt;
+&gt;
+&gt;
+</shashikantjagtap27>]",formal
+166107adf597dbd9,Zoosk <mail@messaging.zoosk.com>,You have 5 new SmartPicks.,2018-09-25,"Hi Sk56, You have 5 new SmartPicks. See who you match with and start chatting! Hurry, you only get 24 hours to respond. View Your SmartPicks Advertisement Sent from the at Zoosk. This message was sent",,formal
+1660b54c8abec6a0,Zoosk <mail@messaging.zoosk.com>,You have 5 new SmartPicks.,2018-09-24,"Hi Sk56, You have 5 new SmartPicks. See who you match with and start chatting! Hurry, you only get 24 hours to respond. View Your SmartPicks Advertisement Sent from the at Zoosk. This message was sent",,formal
+166062b6f8499ffd,Zoosk <mail@messaging.zoosk.com>,You have 4 new SmartPicks.,2018-09-23,"Hi Sk56, You have 4 new SmartPicks. See who you match with and start chatting! Hurry, you only get 24 hours to respond. View Your SmartPicks Advertisement Sent from the at Zoosk. This message was sent",,formal
+166058370df00e58,Zoosk <mail@messaging.zoosk.com>,"17 new singles we think you'll like: hotits, 18 years old from Pune, and more!",2018-09-23,"Hi Sk56, We did a little digging for you, and found some new people we think you&#39;ll be interested in. Check them out now! hotits 18 years old View Profile Aaisha 18 years old View Profile",,informal
+166025a09d7fd5c0,Marvel Contest of Champions <news@contestofchampions.kabam.com>,"sunnykhiiiiiii, win 5-Star X-Men NOW!",2018-09-22,"Win your favorite X-Men! sunnykhiiiiiii, X-Men Crystal Bundles are back, but only for a LIMITED-TIME! GET OFFER! WIN 4 &amp; 5-STAR X-MEN! sunnykhiiiiiii, X-Men Crystal Bundles are back, but only for a",,formal
+16600fe45fdd32a5,Zoosk <mail@messaging.zoosk.com>,You have 4 new SmartPicks.,2018-09-22,"Hi Sk56, You have 4 new SmartPicks. See who you match with and start chatting! Hurry, you only get 24 hours to respond. View Your SmartPicks Advertisement Sent from the at Zoosk. This message was sent",,formal
+16600044dcdf725c,Practo <hello@practomails.com>,9096648023 has 75 HealthCash expiring tomorrow,2018-09-22,"Chat with top doctors + extra 25% off with code CHAT25. Top Doctors | 5-Minute Response | Free 3-day follow-up Copyright 2018, Practo. All Rights Reserved. Call: +91 8880 588 999 Email: support@practo.","[<p>Chat with top doctors + extra 25% off with code CHAT25. Top Doctors | 5-Minute Response | Free 3-day follow-up Copyright 2018, Practo. All Rights Reserved. Call: +91 8880 588 999   Email: support@practo.com Unsubscribe   Privacy Policy Follow us on           
+</p>]",formal
+165fdc9f0e291855,Piyush Aggarwal <piyushaggarwal002@gmail.com>,Re: [dgplug-users] [PyCon'18] Who All would be flying from New Delhi ?,2018-09-22,"On Fri 21 Sep, 2018, 11:29 PM kartikeya singh, &lt;kartiksingh538@gmail.com&gt; wrote: hey piyush, can u take me to the list of events? &gt; &gt; &gt; Yes, sure ! Let me send a list today by midnight !",,informal
+165fd48d9ee33eda,kartikeya singh <kartiksingh538@gmail.com>,Re: [dgplug-users] [PyCon'18] Who All would be flying from New Delhi ?,2018-09-21,"hey piyush, can u take me to the list of events? On Friday, September 21, 2018, Piyush Aggarwal &lt;piyushaggarwal002@gmail.com&gt; wrote: &gt; Hi everyone! &gt; Those who would be flying from New",,formal
+165fc74267e1cea9,Piyush Aggarwal <piyushaggarwal002@gmail.com>,[dgplug-users] [PyCon'18] Who All would be flying from New Delhi ?,2018-09-21,"Hi everyone! Those who would be flying from New Delhi, let&#39;s catch up at some events in Delhi too! I&#39;m excited for PyCon! yay ! \o/ PS: Just sending my first mail through Mailing List. :) Best",,formal
+165fc10e9a1e0817,BookMyShow <no-reply@entertainment.bookmyshow.com>,Nawazuddin is flawless as Manto,2018-09-21,"Book your tickets now. Report Spam GOOGLE PAY OFFER Manto (UA) Manto (UA) Book Now One should watch the movie for many reasons - to know that the likes of Saadat Hasan Manto existed, to see some of his",,informal
+165fbd7b07000183,Zoosk <mail@messaging.zoosk.com>,You have 4 new SmartPicks.,2018-09-21,"Hi Sk56, You have 4 new SmartPicks. See who you match with and start chatting! Hurry, you only get 24 hours to respond. View Your SmartPicks Advertisement Sent from the at Zoosk. This message was sent",,formal
+165f6acb3d866db4,Zoosk <mail@messaging.zoosk.com>,You have 4 new SmartPicks.,2018-09-20,"Hi Sk56, You have 4 new SmartPicks. See who you match with and start chatting! Hurry, you only get 24 hours to respond. View Your SmartPicks Advertisement Sent from the at Zoosk. This message was sent",,formal
+165f69522e1aff3d,"""Sahida Khatun via Change.org"" <change@mail.change.org>",Blood on Uniform,2018-09-20,"​Dear Sunny, A four-year-old girl was sexually assaulted last year by her teacher in Kolkata&#39;s GD Birla school. She came home with blood stains on her uniform and tears in her eyes. She was scared",,formal
+165f6584eac60ae5,"""Yocket.in"" <notifications@yocket.in>","Online US University Fair : Profile evaluation, scholarships & more",2018-09-20,Yocket EducationUSA - Yocket Virtual Fair 2018 Yocket in association with Education USA is organizing biggest virtual fair for aspirants who are planning to study in US. Interact with 30+ top US,,formal
+165f18b119593b98,Zoosk <mail@messaging.zoosk.com>,You have 4 new SmartPicks.,2018-09-19,"Hi Sk56, You have 4 new SmartPicks. See who you match with and start chatting! Hurry, you only get 24 hours to respond. View Your SmartPicks Advertisement Sent from the at Zoosk. This message was sent",,formal
+165f0ffb07136ac6,HackerRank Team <hackers@hackerrankmail.com>,Can You Solve Binary Search Tree : Insertion?,2018-09-19,"Hi Sunny, Improve your skills with this challenge recommended for you: Binary Search Tree : Insertion Data Structures | 59310 submissions Given a number, insert it into it&#39;s position in a binary","[<p>Binary Search Tree : Insertion    
+
+|  
+
+|  
+
+|  
+
+  |  
+
+  | ![](http://email.postmaster.hackerrankmail.com/c/eJw9j0uOgzAQRE8DOyy7_e2FF1EmuUbU-AMomCDjWeT2A5uRavFUJZWqokdjCPrFAxeOo0DulJTABAMDFp8_9iGEuz9u0Cm-f45W6GipspnCO9VK27vQsrLwKf3sOUlNGVHbaEgGmSFwylY5cC5yJfvVz63tRydvHTxPTbSuqX7Z1RHmpexX0eljHAVgkKATGKnCqITNMmp9ZkuhKR0nBCI0AtyQM6ZBjSAGwjAOI6HGRJiMsGzfpr7643fbvvSeaYtUkzbCnW-m_-XNX_hqqewrtfQC8QfPN1Ux) ![](http://email.postmaster.hackerrankmail.com/c/eJxNUst2qjAA_Brd1ZMHIFm4sOXRWuHWQKJm0xOSVJSHXKCCfH3t5p57zixmZjGLmdEr4jgSzc8rBKALCCTAtTBGC7hADlqSwFv6ELov_hrNLNBcu76SXW_aRS5VYdpW1kUlz-VCXat5vjKOtFyVIQUzCSAGWoEMLy2JbIiI9WXNy1Xe9003w-sZCh4YhuG_pN-Uh9mdT7Xsv1uzaOrTDAd6hr0o5DtasTFLWcsqiqJzNzAkDqyI33W5s9LQvyVowKLmRx7Gl4T1V1PpNr6ouwDRTfrC2QJqi7A8RPdeZP4mjcqmVIBYlI03BnocA25nBe-MdwLZfiyNVyaKx5QWeb6_iNd3_DYwKIAu16MCMJRekGYTB0l4bHdspDFueBRwKsPNVvvXUfv9C399m_a-OxhmXyTQPp0CrLwCbie9kYC_qpDmESrFQ0NR61AdoklzcfjDGif2np0ENL7x4YeAcS2mwImqN_t4EN3-sumNt3nmJf27SwHZJgAzYN3ekT0mnB5N-jxtET2me3bXYYw_UvBo8enJEFu6y8wykliOS6TEjoYqc11CrKXOvr5cIIlNwLxddd91fZdFLmstW2M70H084PRv7X71Sz97UzWl7M0ngj9GkLyb) |
+
+  |
+
+  |
+
+  |
+|  
+
+|  
+
+  |  
+
+  | Hi Sunny,  
+    
+Improve your skills with this challenge recommended for you: |
+
+  |
+
+  |  
+
+  |  
+
+|  
+## [**Binary Search Tree : Insertion**](http://email.postmaster.hackerrankmail.com/c/eJx1U8uO4jAQ_Bq4BcVv-5DDaBh-AzV2exKBE-Q4Yvn7bTNZhh3tSpFiV3W1u8pJ6JzWwLdDx1tmW8dca6UQfMd2XHPjDnvzwZh9_3jjG9lep7kkmAvmXQ_-jDnDeE4wXHZ-Stu-88qyGK1rUSrJTIycEQKt1MrYYNT20vWlXDfibcMP9Nxut5dGtQmBsJSeXl_4MWMYMvqyEQc_jQV_0WpfjzwWTNcLFPwu4XoVDYGKhDXMSEnoGe-0l1YEF1CBgCiklgJOykAQNsLJGeKAMY5YBWVIOBdINOmeKWF0q2zLKzER8rDAVTWhqg31byMEP-b8Hq8i5VgyFVb90xCtf1ji7PgcX73aqqWvTLVWMW6CDR5sGwGCi9LYyCTNrWmvlWamFZZJyx6iv89au_IXbllW0FlDsRiujccYJVdGRuaDc5Yb6Xh8SCiUWltjmSuwJrNm8990iPA9XC44fuK8AqdhhHxvZoTs-6ZkxGYYZ8xlmMav1oelpKOnq4Hhc4X2zzYN5TylhGOAp4Lrqkh0CUta67GafCHnackeV9I0Ae7NnxO2uZuXcbzDuQfqmpGytPQnfD6_-tL9vLrf66oIaw ""Solve binary-search-tree-insertion!"")
+
+### Data Structures | 59,310 submissions
+  Given a number, insert it into it's position in a binary search tree. |
+
+  |
+
+  |  
+
+  | [Solve Challenge](http://email.postmaster.hackerrankmail.com/c/eJx1U8uO4jAQ_Bq4BcVv-5DDaBh-AzV2exKBE-Q4Yvn7bTNZhh3tSpFiV3W1u8pJ6JzWwLdDx1tmW8dca6UQfMd2XHPjDnvzwZh9_3jjG9lep7kkmAvmXQ_-jDnDeE4wXHZ-Stu-88qyGK1rUSrJTIycEQKt1MrYYNT20vWlXDfibcMP9Nxut5dGtQmBsJSeXl_4MWMYMvqyEQc_jQV_0WpfjzwWTNcLFPwu4XoVDYGKhDXMSEnoGe-0l1YEF1CBgCiklgJOykAQNsLJGeKAMY5YBWVIOBdINOmeKWF0q2zLKzER8rDAVTWhqg31byMEP-b8Hq8i5VgyFVb90xCtf1ji7PgcX73aqqWvTLVWMW6CDR5sGwGCi9LYyCTNrWmvlWamFZZJyx6iv89au_IXbllW0FlDsRiujccYJVdGRuaDc5Yb6Xh8SCiUWltjmSuwJrNm8990iPA9XC44fuK8AqdhhHxvZoTs-6ZkxGYYZ8xlmMav1oelpKOnq4Hhc4X2zzYN5TylhGOAp4Lrqkh0CUta67GafCHnackeV9I0Ae7NnxO2uZuXcbzDuQfqmpGytPQnfD6_-tL9vLrf66oIaw ""Solve binary-search-tree-insertion!"") |
+
+  |
+
+  |  
+
+  | Happy coding,  
+The HackerRank team |
+
+  |
+
+  |
+
+  |
+|  
+
+| |
+
+  |
+|  
+
+|  
+
+  |  
+
+  |  
+You are receiving this email because you have email notifications enabled on HackerRank account. Unsubscribe from this promotion [here](http://email.postmaster.hackerrankmail.com/c/eJx1U9uO4jAM_Rp4RI1zcx54GC3Db1RuLksFLaikYufv1yml00G7UqUmxz6Oz3ES9s4Ygm27h0pg5YSrUEkJO7EDA9YdD_ZTCPz1-QEbVd2u99zRPcdhdyJ_jsNA_bmj9rLz12572isuFr1KjTaNEcFrqQHJeWm1CSHC9rI_5XzbyI8NHPl7PB6rQqUIgzTmE_-eeD3E0A7R5408-muf4x9eHcqRdY7d7UI5fqeAmUlt4CSJVlilGD3HL94rlMGFqElSksooSY22FCQmapzlGAkBMRZCbrt4z9RxpwehpTWVxgpK4MrIJAF0EaGLDP1vIQxPfX63V5Bc54ETC38RxOs3SSDqpX29llVS15EirWBgAwZPWCWi4JKymITivg3vjTbCVhKFQjGRfp41V4VVbBxn0KFlWywY62NKCrRVSfjgHIJVDtJEYVNK7mzLy5jZmv-ao1-Tnpbv057qrAwqB4z9fWzqS9ufn6QftrwZs1gzqXCCrInGVTzzKINIGJNmhyTwTzmJZJIFnInf03_S1zdAL4JL5Lnn9qfW7n5omzhjclJXv5oo2RZ9Ms45DSqAQn4dxUxpqUEftZUq6CStCK-qJrZhIS_gbYipXgVwiYwrdLZiO-zvY99_0flEfaAh8lVAfsi_l0eb9-837y-BajGU). Copyright Â© 2016 HackerRank (2300 Geng Road, Suite 250 Palo Alto, California 94303), All rights reserved. |
+
+  |
+
+  |
+
+  |
+
+  |
+
+  |
+
+</p>]",formal
+165f051d45d9b125,Practo <hello@practomails.com>,₹75 HealthCash extended for 9096648023 | Consult online with top doctors,2018-09-19,"Use your HealthCash to consult top doctors! Top Doctors | 5-Minute Response | Free 3-day follow-up Copyright 2018, Practo. All Rights Reserved. Call: +91 8880 588 999 Email: support@practo.com","[<p>Use your HealthCash to consult top doctors! Top Doctors | 5-Minute Response | Free 3-day follow-up Copyright 2018, Practo. All Rights Reserved. Call: +91 8880 588 999   Email: support@practo.com Unsubscribe   Privacy Policy Follow us on           
+</p>]",informal
+165f033a52998ee3,Shakthi Kannan <author@shakthimaan.com>,Re: [dgplug-users] Introduction to GNU Emacs series,2018-09-19,"Hi, The tenth (last) session in the GNU Emacs series is scheduled for this Friday, September 21, 2018 at 1930 IST on #dgplug. Setup Magit before you come for the session. Refer: https://magit.vc/manual",,formal
+165ec6508bcff5e9,Zoosk <mail@messaging.zoosk.com>,You have 4 new SmartPicks.,2018-09-18,"Hi Sk56, You have 4 new SmartPicks. See who you match with and start chatting! Hurry, you only get 24 hours to respond. View Your SmartPicks Advertisement Sent from the at Zoosk. This message was sent",,formal
+165e73533b70f70e,Zoosk <mail@messaging.zoosk.com>,You have 5 new SmartPicks.,2018-09-17,"Hi Sk56, You have 5 new SmartPicks. See who you match with and start chatting! Hurry, you only get 24 hours to respond. View Your SmartPicks Advertisement Sent from the at Zoosk. This message was sent",,formal
+165e691e05349406,Zoosk <mail@messaging.zoosk.com>,Your top 10 Pune singles,2018-09-17,"Hi Sk56, We&#39;ve picked out 10 new matches for you. Meet them now and then check out all the singles in your area! Meet Your Top 10 Advertisement This message was sent to sunnyakhandare5618@gmail.com",,informal
+165e402323bee5bf,Zoosk <mail@messaging.zoosk.com>,"17 new singles we think you'll like: Misskhushi, 20 years old from Shivaji Nagar, and more!",2018-09-16,"Hi Sk56, We did a little digging for you, and found some new people we think you&#39;ll be interested in. Check them out now! Misskhushi 20 years old View Profile Somya 19 years old View Profile Pihu",,informal
+165e2111e64bf9a0,Zoosk <mail@messaging.zoosk.com>,You have 4 new SmartPicks.,2018-09-16,"Hi Sk56, You have 4 new SmartPicks. See who you match with and start chatting! Hurry, you only get 24 hours to respond. View Your SmartPicks Advertisement Sent from the at Zoosk. This message was sent",,formal

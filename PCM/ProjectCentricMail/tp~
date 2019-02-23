@@ -1,0 +1,11 @@
+from ProjectCentricMail.models import MessageInfo
+
+a="1664eedf6a81dfe6"
+b="Sunny Khandare <sunnyakhandare5618@gmail.com>"
+c="formal_informal machine learning"
+d="2018-10-06"
+e="Aaditya Deshpande New device signed in to aadityadeshpandeasmi@gmail.com Your Google Account was just signed in to from a new Linux device. You&#39;re getting this email to make sure it was you. Check"
+f=""
+g="ayushbansal323"
+z = MessageInfo(m_id=a,Sender=b,Subject=c,Date=d,Snippet=d,Message_body=e,Username=f)
+

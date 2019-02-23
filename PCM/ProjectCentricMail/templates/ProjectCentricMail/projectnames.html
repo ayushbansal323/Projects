@@ -1,0 +1,26 @@
+{% extends "ProjectCentricMail/base.html" %}
+
+{% block body %}
+
+<div class="container">
+<div class="list-group">
+{% for i in projectname %}
+  <a href="{% url 'projectsort' projectname=i.projectname %}" class="list-group-item list-group-item-action active mt-4 mb-4 text-center" name="projectname">
+   	{{ i.projectname }}
+  </a>
+{% endfor %}
+<div class="list-group-item list-group-item-action flex-column align-items-start active mt-4">
+<div class="d-flex w-100 justify-content-between ">
+<h5 class="mb-1"> Add Project Name</h5>
+</div>
+<form class="pb-2 ml-2 pt-2 mb-0 border border-top-0 border-right-0 border-bottom-0 border-left-2 pl-2 border-primary rounded" action="{% url 'project' %}" method="post">
+{% csrf_token %}
+<input class="form-control form-control-lg" type="text" placeholder="Project Name" name="projectname">
+<button type="submit" class="btn btn-secondary btn-lg btn-block mt-3">ADD PROJECT</button>
+</form>
+
+</div>
+</div>
+</div>
+
+{% endblock %}

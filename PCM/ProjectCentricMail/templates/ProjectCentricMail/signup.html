@@ -1,0 +1,41 @@
+{% extends "ProjectCentricMail/loginbase.html" %}
+{% block body %}
+	<div class="limiter">
+		<div class="container-login100">
+			<div class="wrap-login100 p-l-55 p-r-55 p-t-65 p-b-50">
+  <form class="login100-form validate-form" action="{% url 'signup' %}" method="post">
+  	<span class="login100-form-title p-b-33">Sign up</span>
+    {% csrf_token %}
+    {% for field in form %}
+    </br>
+              {{ field.label_tag }}
+      <div class="wrap-input100 validate-input" >
+        {{ field }}
+      			<span class="focus-input100-1"></span>
+			<span class="focus-input100-2"></span>
+		</div>
+        {% if field.help_text %}
+          <small class="mt-4 mb-3 text-muted">{{ field.help_text|safe }}</small>
+        {% endif %}
+        {% for error in field.errors %}
+          <p class="alert alert-danger">{{ error }}</p>
+        {% endfor %}
+    
+    {% endfor %}
+    <div class="container-login100-form-btn m-t-20">
+    <button type="submit" class="login100-form-btn">Sign up</button>
+    </div>
+    					<div class="text-center p-t-45 p-b-4">
+						<span class="txt1">
+							Already have an account?
+						</span>
+
+						<a href="{% url 'index' %}" class="txt2 hov1" method="get">
+							Sign in
+						</a>
+					</div>
+  </form>
+  			</div>
+		</div>
+	</div>
+{% endblock %}

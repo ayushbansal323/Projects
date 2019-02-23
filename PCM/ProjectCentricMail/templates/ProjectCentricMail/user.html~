@@ -1,0 +1,43 @@
+{% extends "ProjectCentricMail/base.html" %}
+
+{% block body %}
+<div class="container">
+<div class="jumbotron mt-5">
+  <h1>Project Centric mail</h1>
+  <p>welcome to Project Centric mail , A platform which help in organization of mails to a more industrial approach.</p>
+  <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></p>
+</div>
+<div class="row">
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail alert alert-info">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2YTu2ROnpULMECeeFiDZICUCJWvt4ntHnsgzGnaeWqGnIWEsL" alt="..." width="300" height="200">
+      <div class="caption">
+        <h3>SPAM MAIL</h3>
+        <p>...</p>
+        <p><a href="{% url 'spam' %}" class="btn btn-primary" role="button">Button</a> </p>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail alert alert-info">
+      <img src="https://www.projectsmart.co.uk/img/project.png" alt="..." width="300" height="200">
+      <div class="caption">
+        <h3>Projects</h3>
+        <p>...</p>
+        <p><a href="#" class="btn btn-primary" role="button">Button</a> </p>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail alert alert-info">
+      <img src="http://thecontextofthings.com/wp-content/uploads/2017/03/thanks-in-advance.jpg" alt="..." width="300" height="200">
+      <div class="caption">
+        <h3>Formal Informal</h3>
+        <p>...</p>
+        <p><a href="#" class="btn btn-primary" role="button">Button</a> </p>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+{% endblock %}
