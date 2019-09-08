@@ -6,5 +6,6 @@ Packer Unpacker performs 2 tasks:
 
 To pack the file type the following command:
 > ./PackerUnpacker -p directory packed_file_name
+
 To unpack the file type the following command:
 > ./PackerUnpacker -u packed_file_name directory
