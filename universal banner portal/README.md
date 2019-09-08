@@ -21,4 +21,4 @@ __The images of the application are shown below__
 ![Investment page](https://github.com/ayushbansal323/Projects/blob/master/universal%20banner%20portal/Universalbannerportal_jar/Screenshot%20(8).png "Investment page")
 
 
-![Loan page(https://github.com/ayushbansal323/Projects/blob/master/universal%20banner%20portal/Universalbannerportal_jar/Screenshot%20(9).png "Loan page")
+![Loan page](https://github.com/ayushbansal323/Projects/blob/master/universal%20banner%20portal/Universalbannerportal_jar/Screenshot%20(9).png "Loan page")
