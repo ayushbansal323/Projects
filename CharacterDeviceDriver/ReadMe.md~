@@ -10,6 +10,7 @@ Instead of targeting the real device we use sudo Devide to perform the operation
 
 the steps to insert the device driver in the kernal are:
 > make
+
 > sudo insmod ./CharacterDeviceDriver.ko
 
 To see the information about the device driver:

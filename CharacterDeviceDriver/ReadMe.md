@@ -19,6 +19,9 @@ To see the information about the device driver:
 To Check whether device driver is properly loaded:
 > cat /proc/modules
 
+To Check The System Log:
+> cat /var/log
+
 ## To run the demo program
 
 > gcc test.c 
