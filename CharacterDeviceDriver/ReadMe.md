@@ -20,7 +20,7 @@ To Check whether device driver is properly loaded:
 > cat /proc/modules
 
 To Check The System Log:
-> cat /var/log
+> cat /var/log/syslog
 
 ## To run the demo program
 
