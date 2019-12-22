@@ -4,7 +4,7 @@ This project contains functionality of character device driver.
 
 With This we increment all the functions which are executed by the driver routine of the kernel.
 
-Instead of targeting the real device we use sudo Devide to perform the operation.
+Instead of targeting the real device we use sudo Device to perform the operation.
 
 ## Insert the Device Driver
 
