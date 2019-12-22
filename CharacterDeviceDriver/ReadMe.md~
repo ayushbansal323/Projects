@@ -9,18 +9,18 @@ Instead of targeting the real device we use sudo Devide to perform the operation
 ## Insert the Device Driver
 
 the steps to insert the device driver in the kernal are:
-=> make
-=> sudo insmod ./CharacterDeviceDriver.ko
+> make
+> sudo insmod ./CharacterDeviceDriver.ko
 
 To see the information about the device driver:
-=> modinfo CharacterDeviceDriver.ko
+> modinfo CharacterDeviceDriver.ko
 
 To Check whether device driver is properly loaded:
-=> cat /proc/modules
+> cat /proc/modules
 
 ## To run the demo program
 
-=> gcc test.c 
-=> ./a.out
+> gcc test.c 
+> ./a.out
 
 
